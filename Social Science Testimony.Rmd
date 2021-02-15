@@ -3,8 +3,8 @@ title: "Social Science Testimony"
 author: "Julia Tache"
 date: "2/12/2021"
 output:
-  html_document: default
   pdf_document: default
+  html_document: default
 ---
 
 ```{r setup, include=FALSE}
@@ -30,7 +30,6 @@ Using the Social Science Congressional Testimony dataset, I first looked at the 
 
 ```{r}
 # most popular committee 
-
 table_com <- as.data.frame(table(sst$full_committee1))
 head(table_com[order(-table_com$Freq), ])
 ```
@@ -143,8 +142,11 @@ ggplot(top5_comm_graph, aes(X1, syuzhet_vector, fill = full_committee1)) +
   geom_col(show.legend = FALSE) +
   facet_grid(~full_committee1, scales = "free") +  
   theme_light() + 
+  ggtitle("Sentiment Score for Committee Descriptions") + 
+  xlab("Index") + 
+  ylab("Syuzhet Score") + 
   theme(axis.text.x = element_text(angle = 45, hjust = 1)) +
-  scale_fill_brewer(palette = "Dark2")
+  scale_fill_brewer(palette = "Dark2") 
 ```
 
 Using binary variables in the data, I compared the syuzhet vector to the outcome variable of the field of the expert present. However, none of the results were significant. 
@@ -175,6 +177,9 @@ HSBA <- HSBA %>%
 ggplot(HSBA, aes(date, syuzhet_vector)) +
   geom_col(show.legend = FALSE) +
   theme_light() + 
+  ggtitle("Sentiment Score for HSBA Meeting Descriptions") + 
+  xlab("Date") + 
+  ylab("Syuzhet Score") + 
   ylim(-5, 7) +
   theme(axis.text.x = element_text(angle = 45, hjust = 1)) 
 ```
@@ -188,6 +193,9 @@ HSBA_recent <- HSBA %>%
 ggplot(HSBA_recent, aes(date, syuzhet_vector)) +
   geom_col(show.legend = FALSE) +
   theme_light() + 
+  ggtitle("Sentiment Score for 2018 HSBA Meeting Descriptions") +  
+  xlab("Date") + 
+  ylab("Syuzhet Score") +  
   ylim(-5, 7) +
   theme(axis.text.x = element_text(angle = 45, hjust = 1)) 
 ```
@@ -256,8 +264,11 @@ joined_df$syuzhet_vector <- get_sentiment(joined_df$summary, method="syuzhet")
 ggplot(joined_df, aes(bill_id, syuzhet_vector, fill = committee)) +
   geom_col(show.legend = TRUE) +
   theme_light() + 
-  theme(axis.text.x = element_blank())
-  
+  ggtitle("Sentiment Score for Bills Passed in Committee \n (114th-116th Session)") +  
+  xlab("Bill ID No.") + 
+  ylab("Syuzhet Score") +  
+  labs(fill = "Committee Name") + 
+  theme(axis.text.x = element_blank()) 
 ```
 
 This preliminary analysis is very limited with regards to the ability to answer my original research question. It was challenging finding ways to use the data from the government API in concert with the original dataset on testimonies when there were no related variables to join the datasets. However, through exploratory analysis, I did find some factors that do lead to “impactful” congressional hearings, most notably the sentiment and “intensity” of the hearing and/or bill description. The next steps for this project would be perhaps to find actual transcripts of the social scientists present to analyze the information shared and their persuasion tactics used. A hypothesis test can be completed on whether or not hearings with an expert present make a difference or not in the ultimate conclusion of the hearing. If we understand what makes a strong testimony, social scientists hoping to make a beneficial social impact can follow these guidelines to make sure their voices are heard in the elected body. 
