@@ -1,0 +1,630 @@
+Body
+
+
+
+
+Statement of Philip G. Joyce
+Professor, Public Policy and Senior Associate Dean
+University of Maryland, School of Public Policy
+
+Committee on Senate Budget
+
+April 20, 2016
+
+Chairman Enzi and members of the Committee:
+
+Thank you for asking me to testify today on this important topic.
+I congratulate this committee for deciding to highlight the
+subject of the apparently invisible, yet insidious, effects that
+budget uncertainty creates for both federal agencies and the
+recipients of government funds. My comments today are informed by
+my own 30 years of observing the federal budget process, and some
+recent research that I have done culminating in a report written
+in 2012 for the IBM Center on the Business of Government.1 No one
+paying even casual attention to the routine dysfunction of the
+federal budget process in recent years-from ``fiscal cliffs`` to
+sequestration to government shutdowns and threats of shutdowns--
+could avoid coming away with the impression that the federal
+budget process is not working well. It would be somewhat
+reassuring to think that this recent experience was exceptional,
+and that we could now return to normal. Unfortunately, however,
+it is just the latest example of a system where we limp along
+from one crisis and missed deadline to another.
+
+While actual government shutdowns are rare, ``government by
+continuing resolution`` is now the normal way of doing business,
+creating costs and problems of its own. The insidious effects of
+the chronic uncertainty that routine CRs create for federal
+agencies and recipients of government funds are at least as
+worthy of attention, and may indeed be more damaging, than the
+more high profile instances of sequestration or brief government
+shutdowns. Some of these costs are financial, and some represent
+inefficiencies and compromised effectiveness for federal
+programs. All of these negative impacts are self-inflicted,
+however, and are entirely preventable.
+
+In my testimony today, I will do four things:
+
+-- Review the practice of late appropriations and other actions
+that create uncertainty in the federal budget process;
+
+-- Discuss the specific costs and effects of this dysfunction on
+federal agencies;
+
+-- Describe some of the effects of uncertainty that trickle down
+to recipients of government funds; and
+
+-- Offer suggestions as to how these costs and effects might be
+reduced in order to promote more efficiency and effectiveness in
+government programs and agencies.
+
+Shutdowns and Continuing Resolutions Past Experience
+
+The 1974 Congressional Budget and Impoundment Control Act, which
+created the modern congressional budget process, moved the start
+of the federal fiscal year from July 1 to October 1. This
+occurred in part to accommodate the additional steps created by
+the 1974 Budget Act, and in part because the Congress had a
+difficult time enacting appropriations prior to the start of the
+fiscal year. Ironically, however, the appropriations process has
+not gotten more timely since the 1974 Act. In fact, in only 4 of
+the 40 fiscal years since 1977 (the first year under the new
+process) have all appropriations bills been passed and signed
+into law prior to the start of the fiscal year.
+
+In the first years following the advent of the new process, there
+were limited consequences of late appropriations, because
+agencies continued to operate normally even in the absence of
+funding. Agencies assumed that the Congress intended for them to
+continue operating, and that the required funding would be
+forthcoming. This changed in 1980 when Attorney General Benjamin
+Civiletti issued an opinion stating that agencies did not have
+legal authority to spend money in absence of appropriations.
+After the Civiletti opinion, continuing resolutions became the
+norm, since they were necessary (in the absence of
+appropriations) in order for agencies to continue to operate.
+Short funding gaps were relatively routine, but many of these
+occurred over holiday weekends and the impacts were not widely
+felt. Between fiscal year 1982 and fiscal year 1988, there were
+nine such funding gaps (sometimes two in a single year) but their
+average duration was two days. While technically these might have
+been government shutdowns, they had a very small impact.
+
+The fiscal year 1996 budget process, however, yielded the longest
+government shutdowns in history, totaling 26 days. The first
+lasted from November 14th to November 19th, 1995, and resulted in
+the furlough of 800,000 federal employees in agencies covered by
+appropriation bills that had not been enacted. A second, much
+longer, shutdown commenced on December 16th, 1995, and lasted for
+three weeks until January 6, 1996. This second shutdown only
+furloughed 284,000 federal employees; the number was reduced
+mainly because several more appropriation bills had been enacted
+in the interim. While a thorough discussion of this shutdown is
+beyond the scope of this hearing, later studies estimated a
+financial cost of $1.4 billion (mostly resulting from paying
+employees retroactively for work that was not done), in addition
+to substantial negative effects on service delivery. For example,
+almost 400 National Park Service facilities were closed,
+affecting 7 million visitors. Further, the Social Security
+Administration did not process about 200,000 applications for
+benefits, and 800,000 toll-free calls went unanswered. More
+recently, the fiscal year 2014 budget process resulted in a
+government shutdown that commenced on the first day of the fiscal
+year (October 1, 2013), and lasted for 16 days. An analysis by
+the Office of Management and Budget estimated a number of costs
+associated with this shutdown. They included a loss of $2 billion
+to $6 billion in domestic economic output, and another $2 billion
+in costs associated with paying federal employees retroactively
+for work that was not done.2
+
+While there were no shutdowns between the fiscal year 1996
+shutdown and the one affecting fiscal year 2014, and no shutdowns
+for fiscal year 2015 or fiscal year 2016, this does not mean that
+the appropriations process has operated smoothly in the absence
+of a shutdown. In fact, we have experienced government by
+continuing resolution every year since 1997; increasingly there
+have been more of these per year, and they have extended further
+in to the fiscal year. For the 19 fiscal years between 1998 and
+2016, there were an average of almost 6 CRs per year (the high
+point was fiscal year 2001, when there were 21) and CRs, on
+average, covered an average of 3 months (excluding the three
+years 2007, 2011, and 2013--in which there were full-year CRs). 3
+
+Effects of Budget Uncertainty and Crisis Budgeting on Federal
+Agencies
+
+The failure to enact timely appropriations creates an environment
+of substantial uncertainty for federal agencies and for
+recipients of federal funds. The focus by the public and the news
+media tends not to be on this routine dysfunction and the
+problems that it creates, but on the immediate crisis: How do we
+avoid going over the fiscal ``cliff``?; How do we avoid a
+government shutdown?; How do we prevent a debt default? The
+effects of funding delays caused by routine CRs, however, are
+significant. Budgeting is about planning for the future. Any
+organization whether it is the federal government, a state or
+local government, or a business needs to have some notion of the
+funds that it will have available in order to effectively budget,
+and manage. The more certainty that exists, the better informed
+the decisions are, and the more effective the result. For the
+federal government, late appropriations and ``government by CR``
+have created a number of specific problems:
+
+-- CRs have various effects on government personnel, including
+hiring freezes that create skill gaps in crucial areas, and
+morale and turnover problems, often as a direct result of
+employees feeling as if they are pawns in a larger political game
+over which they have no control.
+
+-- Because CRs require the continuation of current activities,
+agencies have trouble responding to many new problems and are
+required to keep funding outdated or ineffective programs.
+
+-- CRs may require agencies to engage in short-term contracting,
+which significantly increases contracting workload and overhead
+costs. In addition, delays in contracting can lead to higher
+costs for individual contracts and also higher costs resulting
+from less competition.
+
+-- Investments that are not made in people (as training is
+cancelled or deferred) or infrastructure (in the form of deferred
+maintenance) lead to higher future costs.
+
+-- Agencies waste a great deal of time preparing for potential
+government shutdowns and CRs, and then complying with them after
+the fact.
+
+Delayed Hiring and Personnel Actions, and Morale Issues. Because
+personnel costs are such a substantial portion of many agency
+budgets, managing delays in funding necessitates reducing
+personnel spending.
+
+This often leads to hiring freezes or across-the-board cuts.
+Hiring freezes can create skill gaps in parts of the agency where
+turnover is greatest. This means that a hiring freeze can end up
+robbing the agency of personnel working in higher priority
+programs, or can have an unintentional differential effect if
+vacancies are concentrated in particular programs, projects, or
+activities.
+
+In cases where funding delays lead to concerns that a shutdown or
+sudden budget reduction may follow (as occurred in 2011 and 2013)
+agencies may be required to prepare furlough plans and to send
+out furlough notices to employees. This can have unintended
+consequences, even in cases where the furloughs are unlikely to
+actually take effect. Some employees may respond to furlough
+notices by spending otherwise productive time seeking other
+employment. Those who end up leaving (because of fear of
+furlough, or because they are just fed up) are likely to be those
+who were just hired or who have other options. In either case,
+they are not necessarily the ones that an agency would choose to
+terminate if the agency was focused on performance
+considerations.
+
+Freezing Priorities in Place. Continuing resolutions also create
+problems in cases where agencies are attempting to shift
+priorities to respond to some immediate challenge facing them. If
+an agency has identified a need to shift personnel from one area
+to another, to address some area of immediate concern, this can
+delay its ability to respond. This is complicated further by the
+sheer amount of time that it can take to fill a position. A
+position that is approved in February or March might not be
+filled until August or September.
+
+A 2009 GAO report on the effect of CRs cited numerous examples of
+this behavior.4 For example, the Federal Bureau of Investigation
+(FBI) delayed filling existing positions in order to fund annual
+pay raises, annualize pay for previous year`s hiring, or to cover
+increased costs of retirement, health insurance, or other
+employee benefits. GAO found other examples where hiring delays
+affected the number of FDA food inspections, the ability to
+maintain or improve the ratio of corrections officers to inmates,
+and the ability to process claims for veterans` benefits.
+
+The fiscal year 2011 budget delays, leading up to a final
+agreement that was not reached until April 2011, is illustrative
+of the compromises to government effectiveness that can occur.
+Media reports indicated that DOD needed to raid procurement
+budgets in the first half of the year in order to fund pay and
+benefits, resulting in deployed troops not getting needed
+equipment, the cancellation of 20 ship overhauls by the Navy, and
+deferred aircraft maintenance. There were nondefense effects as
+well. In State College, Pennsylvania, a newly built $7.5 million
+air traffic control tower, sat empty in the spring of 2011
+because the Federal Aviation Administration lacked the funding to
+hire the air traffic controllers to staff it. In addition to
+preventing new starts, CRs typically require activities that are
+ongoing to be continued. In other words, in addition to
+prohibiting agencies from doing NEW things, CRs also prohibit
+them from ceasing funding for OLD things. In one case the
+Department of Justice had decided to stop funding the National
+Drug Intelligence Center in Johnstown, Pennsylvania. Since they
+could not plan for a specific date to cease operations, the
+passage of a CR required them to continue operating until the
+regular appropriation became law.
+
+Changes in Contracting Practices. Because late appropriations
+have become the ``new normal`` for agencies, they have adjusted
+their spending patterns to accommodate. The agencies interviewed
+by GAO in 2009 each reported that they delayed contracts. The
+Veterans Health Administration (VHA) said that they did not start
+nonrecurring maintenance projects, but instead waited until the
+regular appropriation was received. Delays can also lead to a
+rush to obligate at the end of the year. VHA reported to GAO, for
+example, that in 2006 they obligated 60 percent (about $248
+million) of a $424 million nonrecurring maintenance budget in
+September, the last month of the fiscal year. This rush creates a
+greater potential to make mistakes, which may lead to wasted
+funds and adverse audit findings.
+
+In addition to delaying contracts, many agencies also are forced
+to enter into multiple contracts for a much shorter time period
+(instead of one yearly contract), so that the duration of the
+contract can more-orless match the duration of the CR. For
+example, BOP awarded a contract in 1997 to an optometrist to
+provide care for a prison. Under a regular appropriation, this
+would have been a one-year contract. Instead, there were three
+contracts covering only the first quarter of the year: 1) October
+1 to November 16; 2) November 19 to December 14; and 3) December
+17 to December 21. This kind of short-term contracting creates
+substantial additional workload more contracts means more work,
+higher administrative costs, and greater opportunity for errors
+and waste.
+
+These changes in contracting practices often lead to increases in
+costs. The Bureau of Prisons (BOP) reported to GAO that a CR
+lasting longer than 3 to 4 months typically negatively affects
+the quality of competition. In addition, delayed contracts may
+have higher prices. BOP said that awarding contracts later
+prevented the agency from locking in prices and therefore
+increased costs. In one case (the McDowell Prison facility in
+West Virginia), this resulted in about $5.4 million in additional
+costs. The precision of this estimate is exceptional; most
+agencies know that costs are higher, but are unable to confirm
+specific dollar amounts of increased costs.
+
+Along these same lines, it seems quite likely that many
+contractors dealing with the federal government include a ``risk
+premium`` in the rate that they charge for contractual services,
+because they cannot negotiate reliable multi-year commitments
+without fear of funding interruption. Federal agencies pay more
+for services than an equivalent private firm would pay for the
+same service. While the existence of such a premium is widely
+assumed, it is difficult, if not impossible, to estimate it with
+any precision.
+
+Failing to Invest in Training, Travel and Maintenance. Travel and
+training, as areas where agencies typically have discretion to
+delay funding, are frequent candidates for cutbacks. One agency
+representative reported that the agency simply avoided sending
+staff to training in the first quarter of the calendar year. The
+later that the final appropriation is received, the more that
+training budgets (and therefore training) is likely to be
+reduced. In DOD, for example, training and the agency`s key
+challenge of maintaining force readiness are inexorably related.
+The various forms of budget uncertainty (the threatened
+government shutdown, and the debt ceiling impasse) led, in some
+years, to measurable reductions in DOD training. The Air Force,
+for example, predicted that CRs and planning for a shutdown in
+2011 reduced flying hours by ten percent, and other active duty
+personnel interviewed in 2011 reported that the near shutdown led
+to the cancellation of training exercises.
+
+Foregone maintenance also increases costs. There is little
+question that failing to properly maintain any asset reduces its
+useful life. This can have two possible impacts. It could simply
+take the asset in question out of service, thus depriving
+citizens of the benefits that would otherwise be received.
+Perhaps more likely, it will lead to future costs as the asset
+wears out more quickly. A very clear example of this potential
+comes from the 2011 funding delay, when the Navy cancelled seven
+ship-repair contracts, at a savings of $62 million (McCabe,
+2011). Even if these repairs occurred in a later fiscal year,
+their deferral could clearly have operational and cost
+implications.
+
+Wasted Time and Effort, Leading to Reduced Effectiveness and
+Efficiency. Aside from increasing costs, continuing resolutions
+and funding delays invariably created additional work and cause
+agencies to take actions that compromise their efficiency and
+effectiveness.
+
+A good place to start here is with the process of preparing for
+shutdowns, and for living with CRs. Staff in federal agencies,
+OMB, and the Congress spend a non-trivial amount of time
+preparing for things that usually do not happen (in the case of
+shutdowns) or which do happen, but which waste a lot of time in
+trying to lessen counterproductive or even illegal effects (in
+the case of a CR). In recent years in which there have been
+threats of shutdowns (especially in 2011 and 2013), OMB asked
+agencies to prepare shutdown plans. When this happens, both the
+OMB and federal agencies spent a great deal of time developing
+these plans and reviewing them, which is a complete waste of time
+unless the shutdown actually takes effect.
+
+Preparing for CRs can also frequently be time consuming. One of
+the most time-intensive processes involves dealing with
+anomalies, which are specific exceptions to the general
+limitation on funding in CRs. Since, by definition, these
+anomalies are exceptions to the general rules governing a CR,
+many agencies invariably think that their peculiar circumstances
+deserve exceptional treatment. It is often quite difficult,
+however, to get the Congress to go along with anomalies. This
+leads to lots of negotiations between OMB and agencies over which
+things can and cannot be appropriately be included as anomalies.
+
+These inefficiencies do not stop the moment that the CR is
+enacted. Agency budget offices, and OMB, are involved in lots of
+conversations around budget execution once the CR is law. Many of
+these discussions are designed to determine what can and cannot
+be done, and when something is a continuation of a current
+activity and when it represents something new. Agency budget
+officials often have to spend inordinate time responding to
+inquiries about what is and is not permitted under a CR. The GAO
+case study agencies indicated that there were four types of
+administrative tasks most often affected by CRs:
+
+-- Issuing guidance to programs and offices;
+
+-- Providing information to Congress and OMB;
+
+-- Creating, disseminating and revising spending plans; and
+
+-- Responding to questions and requests for additional funding
+above the amount allotted.
+
+There are no precise estimates of the costs of these tasks. GAO
+reported that VHA estimated that a onemonth CR results in over $1
+million in lost productivity at VA medical facilities and over
+$140,000 in additional costs for the VA contracting office.
+
+Effects of CRs on State and Local Governments and the Private
+Sector.
+
+The federal government provides substantial funds to state and
+local governments, in the form of grants, and to the private
+sector, in the form of contracts. The increased uncertainty, and
+the increasing length of time covered, by CRs has created
+increased costs and uncertainty for these sectors as well.
+Federal grantmaking agencies reported to GAO, for example, that
+CRs that extended beyond about mid February tended to delay
+discretionary grant announcements, thus pushing back both
+application reviews and awards. In some cases, grants were
+cancelled, even though the funds were eventually provided. A
+compressed application period can also decrease the quality of
+application and review, and discourage some potential recipients
+from applying for grants out of fear that they will have
+insufficient time to prepare grant applications, which can be
+complicated and time-consuming.
+
+Agencies that award grants must decide, if operating on a long-
+term (more than three months but less than a full year) CR,
+whether to suspend grant application processes until an
+appropriation is received or to go ahead with them, pending a
+final appropriation. In the former case, there may not be enough
+time available for potential recipients to prepare applications
+and for agencies to process them in the second half of the year.
+Therefore, what appears to be a delay may result in a
+cancellation of the grant program, at least for the current year.
+In the latter case, there is a risk that, if the funds are not
+ultimately provided, the agency could have applications in hand
+but no funding for the program. This occurred in fiscal year 2011
+with the Department of Education`s Teaching American History
+program.
+
+A similar story exists for contractors. When stories began to
+emerge in 2012 that speculated about the effects of
+sequestration, the first effects that were discussed were the
+impacts on federal contractors who had already started to react
+to the threat of across-the-board cuts. If contractors believe
+that an actual shutdown, or contract cancellation, is imminent,
+they face difficult questions concerning whether or not to
+continue work, and how long they can afford to keep employees on
+board. Whether late appropriations ultimately lead to layoffs
+depends on the contractor, and particularly on the rate of
+turnover. There certainly are cases, especially for small
+contractors, where layoffs are necessary. In 2011, for example,
+Penn State University`s Applied Research Laboratory, heavily
+funded by a contract with the Navy, reported having to lay off 13
+engineers due to funding reductions from the Navy associated with
+federal budget delays.
+
+It is likely that the effects of uncertainty are felt more
+acutely by firms with the following characteristics:
+
+-- small businesses that may have less of a cushion against the
+delay in funding for an apparently small contract. Smaller
+businesses are less likely to have the capacity to ``ride out the
+uncertainty`` associated with funding delays;
+
+-- firms that work only for the government;
+
+-- firms that are funded from agencies that have primarily one-
+year money;
+
+-- firms funded by agencies that are more likely to receive late
+appropriations (some appropriation bills are more chronically
+late than others);
+
+-- contractors that are (especially within DOD) in the delivery
+stage of a given project (as opposed to development) because
+delivery involves higher personnel costs.
+
+According to contractors who deal with both sectors, the biggest
+difference between commercial and federal work is that for
+commercial work the contractual firm can make long-term
+commitments, whereas with a federal agency the commitment is year
+to year. To the extent that there are capital costs, those
+capital costs can be captured with certainty over a three-to-five
+year period. A federal contract, conversely, may be a base
+contract with 10 one-year options.
+
+In the end, it is true that, in general, government work tends to
+be more risky than commercial work. It is made even more risky in
+cases where there may be some interruption in funding as a result
+of a shutdown or default. A 2007 study, for example, of DOD
+contracting delays found that nine out of twelve companies
+included in the study experienced a decline in company stock
+values as a result of these delays. It is likely that there are a
+significant number of contractors who are unwilling to work with
+the government, thus reducing competition and increasing costs.
+
+What to Do About the Problem of Late Appropriations
+
+Ultimately, the greatest impediment to fixing the problem of late
+appropriations is that their negative consequences seem to be
+largely invisible. Many of the same people who decry waste in
+government, however, may themselves be contributing to that waste
+by failing to provide a predictable funding stream to federal
+agencies and recipients of federal funds. No state of local
+government would be able to get away with this, without
+consequences, as chronic funding delays would result in lowered
+bond ratings, increased borrowing costs, and likely political
+fallout. Despite this, of course, both the states of Illinois and
+Pennsylvania have operated much of the current fiscal year
+without a budget. These cases are notable because of how unusual
+they are, and in both of these cases, the result has had the
+predicted result of higher bond ratings. These market signals do
+not seem to exist in the federal budget process. Despite the
+apparent invisibility of these effects, however, it should be
+clear that routine timely appropriations would have many positive
+effects on budget formulation and execution, including the
+following.
+
+1. If appropriations were timely, it would improve budget
+planning for future years. The clearest example of this has to do
+with the President`s budget, where if the current year
+appropriations are not enacted by around mid-December, it makes
+it virtually impossible to have reliable information on which to
+base proposed funding for the budget year.
+
+2. If decisions in budget execution did not have to be made in
+such compressed time frames, it would lead to better decisions
+since agencies would not be (at least to the same extent) rushing
+to make choices on contractors, grants, etc.
+
+3. Agencies could begin to plan for hiring earlier in the year
+which (given how long it can take to fill a position) increases
+the chance that they will have a full complement available to
+deliver priority services.
+
+4. Investments in employees and in physical assets would be able
+to be protected by permitting adequate funds to be provided for
+employee training and maintenance of this physical capital.
+
+5. Both the cost of contractual services and their quality would
+be improved if appropriations were received in a timely manner.
+Predictability would enable agencies to negotiate contracts at a
+lower price and contractors would likely deliver higher-quality
+service.
+
+How can we encourage these positive effects? It is hard to avoid
+starting with the obvious conclusion: Given all of the negative
+consequences of late appropriations, the Congress should
+discharge its most basic responsibility and routinely enact
+appropriations before the beginning of the fiscal year. It is
+hard to imagine that, the roughly eight months available between
+the delivery of the President`s budget and the beginning of the
+fiscal year would not provide sufficient time to enact
+appropriations bills, provided that the Congress viewed it as a
+significant priority. The fact that the federal government is a
+large, complicated enterprise, and the federal budget process is
+a complex process is not a sufficient excuse for this failure.
+
+To begin and end with this conclusion seems particularly
+unhelpful. For this reason, it is useful to consider some
+recommendations that start from the assumption that the
+Congressional appropriations process will not suddenly operate on
+schedule. If we are stuck with late appropriations, what can be
+done to minimize their effects?
+
+1. The Congress could make more funding available on a multi-year
+or no-year basis. At present, many agency salary and expense
+budgets are provided using one-year money. If agencies had the
+flexibility to obligate funds over multiple fiscal years, many of
+the specific problems caused by late appropriations would be
+reduced. This is not to suggest that all appropriations should
+permit multi-year or no-year obligations, but it would be useful
+to specifically review current practice with an eye toward
+increasing the percentage where such multi-year obligations are
+necessary. This might assist, in particular, those agencies with
+lots of grant and contract funding.
+
+2. The Congress might consider prohibiting continuing
+resolutions, or making them more difficult to enact than regular
+appropriations. This may seem like an odd recommendation, as it
+increases the probability of a government shutdown. In fact, it
+flies in the face of a more common recommendation, which is that
+failure to enact appropriations should result in an automatic
+continuing resolution (ACR). The problem is that ACRs may just
+become the norm; that is, this might reduce the urgency of
+enacting appropriations even further. Given the problems created
+by CRs, this would not be a good outcome. Conversely, prohibiting
+CRs or (for example) requiring a supermajority to pass them would
+tend to lead to a situation where the options might be either a
+full-year appropriation or a government shutdown. Perhaps if
+there were MORE urgency in enacting appropriations, it would
+increase the odds of them being enacted.
+
+3. If CRs are to continue, it would be useful if, instead of CRs
+that freeze spending at the prior year level, the Congress should
+enact CRs that permit inflationary increases to the prior year
+level. For those members of Congress and Presidents who believe
+that spending should be frozen or reduced, this would provide an
+incentive to reach agreement on appropriations in a timely
+manner, since the default would be a higher level of spending.
+For federal agencies, however, this would reduce the necessity of
+counterproductive actions having to be taken in order to live
+within a CR that requires spending at the prior year level. This
+recommendation would also reduce, but not eliminate, the need for
+anomalies, which should be held to a minimum in the interest of
+lessening the substantial effort that goes into identifying and
+negotiating them.
+
+4. The Congress should avoid the temptation to micromanage the
+budget execution process, particularly if late appropriations are
+to continue to be the norm. Requirements imposed on some agencies
+to have spending plans approved by Congressional committees are,
+in the context of late appropriations, a costly ``luxury``. If
+appropriations were timely, such a review could potentially be
+justified. In cases where a final appropriation is not received
+until 3 to 6 months into the fiscal year, there is no
+justification for the additional delay that such a requirement
+imposes on federal agencies and their ability to manage funds.
+
+5. Moreover, the Congress and President should limit CRs to only
+one or two per year that do not extend past the end of the
+calendar year. It is important to recognize that all CRs are not
+created equal. It matters how many there are, and it matters how
+long agencies have to operate under them. Short CRs (especially
+where there are multiple CRs lasting weeks, as opposed to months)
+create all sorts of problems for federal agencies that increase
+the odds of agency officials unwittingly violating some law or
+engaging in counterproductive management practices. Problems
+created by attempting to manage through CRs lasting 4 months, or
+6 months (or more) are also well documented. If CRs are to be
+enacted, it is important for them to be enacted in a way that
+minimizes their negative effects.
+
+It seems particularly important to focus on these improvements at
+the present time, for two reasons. First, the problem is becoming
+worse, not better. While historically the problem with late
+appropriations has been more one of timing than of uncertainty of
+the eventual funding level, recently federal agencies have found
+themselves in a position where both the timing and the amount are
+in serious question. The recent threat of the Budget Control
+Act`s reductions in discretionary appropriations ratchets up this
+level of uncertainty to a higher level. Independent of these
+prospective cuts, the need to reduce federal debt will result in
+a less than ``zero-sum`` game for federal agencies; having
+sufficient time to plan for these budget reductions will be even
+more important than ever.
+
+My main message, then, is that funding delays have costs. Some of
+these costs are financial, and others are felt through
+compromised government effectiveness. Either way, these are
+completely self-inflicted wounds. The negative impacts are
+unacceptable given the importance of the federal budget to the
+overall performance of the U.S. economy and the delivery of
+services to citizens. The Congress should do what it can to
+minimize these costs, even if they cannot be eliminated.

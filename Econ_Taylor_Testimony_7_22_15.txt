@@ -1,0 +1,227 @@
+Body
+
+
+
+
+Statement of John B. Taylor
+Professor of Economics
+Stanford University
+
+Committee on House Financial Services
+Subcommittee on Monetary Policy and Trade
+
+July 22, 2015
+
+Chair Huizenga, Ranking Member Moore, and members of the
+Subcommittee on Monetary Policy and Trade, thank you for inviting
+me to testify at this hearing on ``Examining Federal Reserve
+Reform Proposals,`` including the Federal Reserve Reform Act of
+2015 and the Centennial Monetary Commission Act of 2015.
+
+The Federal Reserve Reform Act of 2015 as stated in Section 2,
+Requirements for Policy Rules of the Federal Open Market
+Committee would require that the Fed ``describe the strategy or
+rule of the Federal Open Market Committee for the systematic
+quantitative adjustment`` of its policy instruments.2 According
+to the bill, the Fed would choose the strategy and how to
+describe it. The Fed could change its strategy or deviate from it
+if circumstances called for a change, in which case the Fed would
+have to explain why.
+
+In evaluating this bill it is important to emphasize the word
+``strategy`` as explicitly stated in the bill. Though economists
+frequently use the word ``rule,`` that term may convey the false
+idea that a rules-based monetary strategy must be purely
+mechanical. In a conference volume3 published last December,
+George Shultz explained the importance of having a strategy. He
+wrote that ``. . .it is important, based on my own experience, to
+have a rules-based monetary policy. . .. at least as I have
+observed from policy decisions over the years in various fields,
+if you have a strategy, you get somewhere. If you don`t have a
+strategy, you are just a tactician at large and it doesn`t add
+up.`` Fed Chair Janet Yellen similarly explained in a speech4 in
+the 1990s that ``The existence of policy tradeoffs requires a
+strategy for managing them,`` and she described a rule for the
+policy instruments with ``several desirable features`` as an
+example of ``a general strategy for conducting monetary policy.``
+
+The finding that predictable rules-based monetary policy is
+essential for good economic performance comes from research by
+many people and from practical experience over many years in the
+United States and other countries. My own research going back
+more than four decades supports this view, and such a view has
+become embedded in macroeconomic theory.5 In the same conference
+volume where the quoted words of George Shultz appear, other
+economists, including Michael Bordo, Richard Clarida, John
+Cochrane, Marvin Goodfriend, Jeffrey Lacker, Allan Meltzer, Lee
+Ohanian, David Papell, and Charles Plosser, wrote about the
+advantages of such a policy strategy; yet, most agreed that
+during the past decade the Fed has either moved away from a rules-
+based strategy or has not been clear about what the strategy is.
+
+Of course, it is possible technically for the Fed to get back to
+such a strategy, but it is difficult in practice. Long departures
+from a rules-based strategy in the 1970s and in recent years
+illustrate the difficulty. De jure central bank independence
+alone has not prevented departures. De jure central bank
+independence has been virtually unchanged in the past 50 years,
+yet policy makers have varied their adherence to rules-based
+policy. These variations point to the need for the Federal
+Reserve Reform Act of 2015 which would require the Fed to set and
+clarify its strategy for its policy instruments.
+
+There is precedent for this type of Congressional oversight.
+Legislation that appeared in the Federal Reserve Act from 1977 to
+2000 required reporting of the ranges of the monetary aggregates.
+The legislation did not specify exactly what the numerical
+settings of these ranges should be, but the greater focus on the
+money and credit ranges were helpful in the disinflation efforts
+of the 1980s. When the requirement for reporting ranges for the
+monetary aggregates was removed from the law in 2000, nothing was
+put in its place. A legislative void was thus created concerning
+reporting requirements and accountability. The proposed
+legislative reform would help fill that void.
+
+The United States Congress through the House Financial Services
+Committee and Senate Banking Committee has responsibility for the
+oversight of monetary policy in this strategic sense. Allan
+Meltzer stressed this idea in a recent Senate Banking Committee
+hearing,6 saying ``We need change to improve the oversight that
+[Congress]. . .exercises over the Fed. . ..you need a rule which
+says, look, you said you were going to do this, and you have not
+done it. That requires an answer, and that I think is one of the
+most important reasons why we need some kind of a rule.``
+
+During the past year there has been extensive discussion and
+debate in the Congress and in the media about the ideas
+underlying the policy rules bill. Recently new economic research
+at universities and think tanks has begun to address the issue.7
+A bill with close similarities to the Federal Reserve Reform Act
+of 2015 has been voted out of the Senate Banking Committee. The
+Centennial Monetary Commission Act of 2015, which would establish
+a Centennial Monetary Commission to study monetary policy, would
+be a constructive way to bring this bring this research together,
+and discuss it and expand it as necessary in a bipartisan context
+and perhaps come to conclusion. It would be useful, for example,
+to constructively address concerns about monetary policy and
+reform proposals that have been raised during the past year. Let
+me consider several of these concerns.
+
+Fed Chair Janet Yellen testified8 that ``I don`t believe that the
+Fed should chain itself to any mechanical rule.`` But the bill
+does chain the Fed to any rule. The Fed would choose and describe
+its own strategy, and it need not be mechanical. The Fed could
+change the strategy if the world changed. It could deviate from
+the strategy in a crisis if it explained why. It would still
+serve as lender of last resort or take appropriate actions in the
+event of a crisis. Moreover, a policy strategy or rule does not
+require that any instrument of policy be fixed, but rather that
+it flexibly adjusts up or down to economic developments in a
+systematic and predictable way that can be explained.
+
+Another stated concern with policy rules legislation is that the
+Fed would lose its independence. In my view, based on my own
+experience in government, the opposite is more likely. A clear
+public strategy helps prevent policy makers from bending under
+pressure and sacrificing their institution`s independence.
+
+Some commentators say that the bill would require the Fed to
+follow a particular rule listed in the bill, but this is not the
+case. The bill requires the Fed to describe how its strategy or
+rule might differ from a ``reference rule,`` which happens to be
+the Taylor rule. However, describing the difference between a
+policy rule and this reference rule is a natural and routine task
+for the Fed. In fact, many at the Fed already make such
+comparisons including Chair Yellen.
+
+The false claim that the bill would chain the Fed to the
+reference rule leads to other questions. For example, Ranking
+Member Gwen Moore asked Chair Janet Yellen in a hearing on July
+15 whether the Fed would be able to react to the Greek crisis if
+it were required to follow the Taylor rule. Chair Yellen noted
+that that rule focusses on two variables and thus would not allow
+such a reaction. Leaving aside the question of whether the Fed
+should have reacted to the Greek crisis, the legislation would
+not have prevented it from doing so, because the Fed would choose
+the rule and it could deviate from it.
+
+Some say that uncertainty about the output gap makes any rule
+that depends on the gap inferior to discretion. But uncertainty
+about the output gap is just as much a problem for discretion as
+it is for policy rules.
+
+Another critique is that the zero bound on the interest rate
+means that an interest rate rule is no longer useful. Wasn`t that
+the reason that the Fed deviated from rules-based policy in
+recent years? It was certainly not a reason in 2003-2005 and it
+is not a reason now, because the zero bound is not binding. It
+appears that there was a short period in 2009 when zero was
+clearly binding. But the zero bound is not a new thing in
+economics research. Policy rule design research took that into
+account long ago. One approach was to recognize that in such a
+situation one should simply keep money growth steady rather than
+embarking on a purely discretionary policy such as quantitative
+easing.
+
+There is also the concern that there are many rules or strategies
+to choose from. There are many different types of personal
+display devices, but that does mean they are all useless. Some
+policy strategies are better than others, and it makes perfect
+sense for researchers and policy makers to be looking for new and
+better ones. Some people have suggested focusing on nominal GDP.
+I do not think adding housing prices or the stock market to a
+rule makes much sense, but with the policy rules legislation it
+is the job of the Fed to decide.
+
+Some of the recent objections to predictable policy rules and the
+enabling legislation go to the heart of an old debate about rules
+versus discretion. Lawrence Summers raised this one: ``I think
+about my doctor. Which would I prefer: for my doctor`s advice, to
+be consistently predictable, or for my doctor`s advice to be
+responsive to the medical condition with which I present? Me, I`d
+rather have a doctor who most of the time didn`t tell me to take
+some stuff, and every once in a while said I needed to ingest
+some stuff into my body in response to the particular problem
+that I had. That would be a doctor who`s [advice], believe me,
+would be less predictable.``
+
+This line of argument in favor of pure discretion appeals to an
+all-knowing expert, a doctor who does not perceive the need for,
+and does not use, a set of guidelines, but who once in a while in
+an unpredictable way says to ingest some stuff. But as in
+economics, there has been progress in medicine over the years.
+And much progress has been due to doctors using checklists.
+Experience shows that checklists are invaluable for preventing
+mistakes, getting good diagnoses and appropriate treatments. Of
+course doctors need to exercise judgement in implementing
+checklists, but if they start winging it or skipping steps the
+patients usually suffer. Experience and empirical studies show
+that a checklist-free medicine is wrought with dangers just as a
+rules-free monetary policy.
+
+Another line of argument is that you do not really need a rule or
+strategy for the instruments of policy. All you really need for
+effective policy making is a goal, such as an inflation target
+and an employment target. In medicine, it would be the goal of a
+healthy patient. The rest of policymaking is doing whatever you
+as an expert, or you as an expert with models, thinks needs to be
+done with the instruments. You do not need to articulate or
+describe a strategy, a decision rule, or a contingency plan for
+the instruments. If you want to hold the interest rate well below
+the rule-based strategy that worked well during the Great
+Moderation, as the Fed did in 2003-2005, then it`s ok as long as
+you can justify it at the moment in terms of the goal.
+
+Ben Bernanke and others have called this approach ``constrained
+discretion.``10 It is an appealing term, and it may be
+constraining discretion in some sense, but it is not inducing or
+encouraging a rule or a strategy. Simply having a specific
+numerical goal is not a rule for the instruments of policy; it is
+not a strategy; in my view, it ends up being all tactics. I think
+the evidence shows that relying solely on constrained discretion
+has not worked for monetary policy.
+
+I would be happy to answer questions about this testimony on
+Section 2 of Federal Reserve Reform Act of 2015, the Centennial
+Monetary Commission Act of 2015 or any other questions that you
+may have about the Federal Reserve reform proposals.

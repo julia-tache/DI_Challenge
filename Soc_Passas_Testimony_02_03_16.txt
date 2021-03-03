@@ -1,0 +1,370 @@
+Body
+
+
+
+
+Statement of Nikos Passas
+Professor of Criminology and Criminal Justice, College of Social
+Sciences and Humanities,
+Northeastern University
+
+Committee on House Financial Services
+Subcommittee on Terrorism Financing Task Force Task Force
+
+February 3, 2016
+
+Introduction
+
+Terrorism is a persistent threat with no quick and easy solution.
+Anticipating the moves of terrorists and preventing their actions
+has become a top priority. In order to do so, the U.S. and the
+international community have introduced financial controls, along
+with military action and law enforcement techniques, to predict,
+restrict, and prevent terrorist activities.
+
+Countering terrorism finance (CFT) is not only about cutting off
+funds or mere displacement of sources and methods. Rather, the
+point is to undermine the finances and support networks of target
+groups. Conceived as financial vigilance, CFT helps focus on both
+fund raising and expenditure, as well as on partners, associates,
+facilitators, support networks, methods of operation and
+distribution of labor. Key nodes of information, intelligence and
+support can be identified and targeted as appropriate for more
+effective and sustainable results. The aim is to understand what
+they do, how they do it and how to identify the key nodes of
+critical networks, partners and facilitators, blind eyes and
+corrupt enablers, so that we can more effectively disrupt their
+activities and achieve sustainable and long-term success (Passas,
+2007).
+
+Trade is not only a critical support system for numerous terror
+groups, but also the weakest link in the anti-money laundering
+(AML) infrastructure built since the 1980s. Despite substantial
+efforts, laws, measures and resources devoted to AML/CFT, there
+has been no systematic review or consistent action with respect
+to trade, which constitutes the biggest security and crime
+vulnerability, a black hole undermining the entire control
+framework.
+
+Even if all current rules were ever to be fully and consistently
+enforced throughout the world, billions of dollars could still be
+moved illicitly without detection and sanction. When CFT is not
+based on the best evidence and analysis the result is missed
+targets, false positives, false negatives and security
+weaknesses.
+
+Imports and exports can hide illegal or controlled commodities
+trade, but they often shield significant illicit financial
+transactions. This can be accomplished by mis-declaring the
+quality, quantity, value, origin, destination, and final use of
+goods. Mis-invoicing, trade diversion, counterfeiting and cargo
+theft are some of the most common methods (deKieffer, 2008;
+Passas, 1994; Passas & Nelken, 1993). Multiple terrorist groups
+are involved in these, so a focus on trade and terrorism is long
+overdue.
+
+In this statement, I am summarizing some of the most important
+lessons learned through work I have been doing since 1989 on
+illicit financial and trade flows, including money laundering,
+the abuse of hawala and other informal remittance systems,
+terrorism and proliferation finance and the interface between
+legal and illegal actors. In a nutshell, the threats are serious
+but the good news is that effective responses are feasible and
+within reach. First I will review the challenges we face and then
+will outline available practical approaches and solutions.
+
+The Challenges
+
+Three global flows need monitoring and analysis for a clear
+picture of illicit flows: financial, information and trade.
+Ideally, these flows must become traceable and analyzed in
+parallel, so that discrepancies and anomalies can be revealed and
+studied. Most of our attention so far focuses on finance and
+information, but even there the work is imperfect and sources not
+cross-checked. Trade, on the other hand, is for the most part non-
+transparent, neglected and extremely vulnerable to abuse.
+
+Abuses do occur routinely, not only for money laundering, but
+also for tax evasion, bribery and corruption, subsidy and other
+types of fraud, sanctions violations, embargo and quota
+violations, capital flight, as well as the financing of terrorism
+and WMD proliferation. The amounts involved are not known with
+precision but they are certainly staggering and likely exceed $1
+trillion per annum. Many terror groups have used commodities in
+the modus operandi: from the Islamic State and al Qaeda in Iraq
+to the Kosovo Liberation Army (KLA), Jemaah al Islamiya, Tamil
+Tigers (LTTE), Hamas, Hizballah, the Partiya Karkeren Kurdistan
+(PKK) the Northern Alliance, al Qaeda, Groupe Islamique Arme
+(GIA), the Irish Republic Army, as well as Armenian, Chechen and
+Georgian paramilitary groups (Cassara, 2015; Freeman, 2012;
+Passas, 2011a, 2011b; Passas & Jones, 2006; Shelley, 2015).
+
+When it comes to the trillions of dollars in trade volume
+annually, our vision is blurred for several reasons. First of
+all, relevant information is not collected in one place for
+consolidated analysis at the national and international level.
+Relevant information is collected by Customs, FinCEN, Department
+of Commerce, port authorities and their counterparts in other
+countries. Other data are in the hands of banks, insurance
+companies, brokers, shippers and logistics companies, importers
+and exporters. No one is getting the full picture because no one
+collects all of the information in one place.
+
+Secondly, financial institutions are expected to focus on
+transactions monitoring working with large data that would
+presumably cover everything but end up identifying much less
+actionable intelligence than desired. A good deal of compliance
+work has become an automated tick-the box exercise that yields
+millions of SARs and massive false positives.
+
+These in turn tend to waste the time of personnel that must deal
+with them, rather than centering on the highest risks, analytical
+work for typologies or new algorithms, the identification of
+offenders and closer collaboration with controllers. After all,
+financial institutions have incentives to avoid heavy fines and
+reputational damage rather than to discover and chase away bad
+clients. In addition, financial institutions can only review data
+about their clients and have no way of accessing either
+government or other banks` clients and analysis. This leads to
+costly duplication of work and an incomplete view of the problem.
+
+Thirdly, while some government work has been done on commerce-
+connected informal remittance and payment networks, such as
+hawala and black market peso exchange (BMPE), there has been no
+systematic assessment of trade threats and vulnerabilities in
+different economic sectors. Even when it comes to Informal Value
+Transfer Systems (IVTS), a term I coined in a study for the Dutch
+Ministry of Justice (Passas, 1999), no threat assessment has been
+done since the studies commissioned by FinCEN right after 9/11
+(Passas, 2003a, 2003c). The problem is that these informal
+networks evolve constantly and adapt to regulatory and law
+enforcement practices in different countries and environments in
+many of which they are outlawed (FATF, 2013). It is essential to
+keep an eye on these changes and also realize that hawala is not
+only a challenge for controllers, but can also be an invaluable
+intelligence asset (Passas, 2008) that can be leveraged in many
+places including Afghanistan, India and Somalia for both control
+purposes and assistance to fragile communities. This could
+address at once and synergistically terrorism finance, crime
+control, development and humanitarian policy objectives (Passas,
+2015a, 2015b, 2016; SIGAR, 2013).
+
+Finally, the value of open source information is under-estimated
+and under-utilized. Reviewing and working only with classified
+and private data excludes information on the internet, in the
+press, public reports and research literature from NGOs and
+academics. Yet, these sources point to knowledge gaps,
+misunderstandings, contextual information, insights and items
+unavailable elsewhere that might contradict conventional wisdom
+or non-public data and discredit sources we should not rely too
+much on. This is all particularly relevant to the analysis of
+illicit networks, identification of true beneficial ownership,
+adverse media news in local or foreign publications, terrorism
+finance, sanctions violations, corruption, illicit enrichment and
+other issues of interest to those in charge of due diligence and
+investigative tasks.
+
+The Solution
+
+The answer to all of these challenges can be found by simply
+addressing the opportunities we have been missing up to now. As
+noted, all of the necessary data are not in one place but do
+exist. Hawala is not only a problem but also an intelligence
+asset and resource, if properly handled. Agencies that gather
+useful information can be encouraged to share it. Open source
+data are available for analysis. The private sector and academia
+can assist with additional data, collection in a secure
+environment, analysis and feedback to both government and
+business with red flags and guidance. Our view is blurred thus
+unnecessarily. It is like having a 4K TV that we use for analog
+programs instead of creating the feed for a high-definition
+picture of the global illegal trade and finance. The means are
+there to create it.
+
+There are several data categories that can be collected
+systematically.
+
+-- InboundManifest/Movement data are provided to governments by
+carriers and shippers on goods arriving in a country by road,
+rail, sea, and air. These records offer details on what goods are
+received where, when and who is involved.
+
+-- OutboundManifest/Movement Transactions are equivalent data on
+goods leaving a country.
+
+-- Import Declarations to governments when goods enter the
+economy. These are usually public in aggregate form.
+
+-- Export Declarations for goods leaving the economy.
+
+Some of these data are published online, but there are also
+companies that collect and provide such information for a fee
+(e.g., Port Import Export Reporting Service - PIERS). U.S. import
+and export data can be obtained from U.S. Department of Commerce
+and International Trade Commission websites. Other countries
+publish theirs in revenue collection and official statistics
+agencies` websites. The United Nations also publishes trade
+information.
+
+Port and ship-loading information, Electronic Data Interchange
+(EDI) records, which are standardized computer-to-computer
+documents between businesses can be used for the analysis for
+shipments, invoices and container movements. Trade finance,
+insurance, storage, satellite imaging, cash handling and
+movements data can be added to the database too. In the U.S., for
+example, Geographic Targeting Orders have been used in different
+states and yield complete records of Money Service Business (MSB)
+transactions.
+
+By adding crime statistics, criminal records, reports of
+investigations, open source literature in multiple languages and
+qualitative on-the-ground sources, such as interviews from
+different jurisdictions, we can make case studies, pattern
+analysis and the mapping of criminal networks much easier, richer
+in details and policy useful. Oil, trade finance, antiquities,
+food and agriculture, medical and arms-related data can be
+tracked and added to the database especially for action against
+terrorist groups like the Islamic State that control territory,
+have access to natural resources, engage in trade and perform
+quasi government functions that leave traces.
+
+A Promising Way Forward
+
+Concrete steps the U.S. Government should consider include the
+following:
+
+-- Ensure that all government data are gathered and analyzed in
+one place that can liaise also with law enforcement agencies for
+swift action. FinCEN, for example could be ideal for this
+purpose.
+
+-- With appropriate legal pathways, bring all available private
+sector trade data and open source data together through a trusted
+third party, such as a university, that can develop a system to
+receive, securely store and analyze them in a consolidated way. A
+university can generate new data and collaborate with government
+agencies (e.g., FinCEN) to develop patterns, identify
+irregularities, generate typologies and red flags, issue
+guidance, and produce evidence-based investigative clues. Many of
+the problems cited with respect to financial institutions could
+be resolved with this type of collective action and synergies
+among business and the government. The university would also help
+obviate the reluctance of businesses to share information for
+competitive reasons.
+
+Below are some illustrations of how such analysis has been done
+in the past in Northeastern`s NIJ-sponsored collaborations with
+FinCEN, DHS and the Department of Justice. It should be
+emphasized that the examples below do not constitute evidence of
+serious misconduct and crimes. Disparities may reflect errors,
+honest mistakes or some special commercial practices, such as
+inventory management and returned goods. These are clues for
+follow-up and investigations that can produce the necessary
+evidence.
+
+The simplest first step is to compare import and export official
+records to see where these do not match. Items declared as
+exported from country A to country B, should be about the same
+the items declared as imported in country B from country A. This
+is often not the case as shown in tobacco trade statistics
+between the United States and Japan or Switzerland in the past.
+
+Another type of analysis is comparing declared value per unit for
+the same commodity in a given time period in different countries.
+When looking at world market prices for licorice for example, we
+see that these ranged roughly between $.50 and $.75 in the period
+between 1994 and 2007. This is what we see by looking at imports
+from Azerbaijan below. However, when we examine the figures for
+imports from Turkmenistan during exactly the same time span, we
+can identify substantial outliers worthy of investigation, as
+some values go up to $5.00.
+
+The numbers go through the roof, when we do the same analysis for
+Syria during the same period. In fact, the whole pattern of value
+is completely lost with transactions showing values in the teens
+and the twenties reaching all the way up to $26.00. It is
+certainly important for someone to routinely and regularly
+monitor for such discrepancies and irregularities to find out
+what explains them and what action must be taken.
+
+Pricing irregularities that make no commercial sense includes
+instances where obviously cheaper goods are imported for too high
+values. Scrap gold (in blue in the figure below), for example,
+must be much cheaper than pure gold (in red). This is the pattern
+observed in U.S. imports of gold from Mexico. Scrap and pure gold
+U.S. imports from Colombia however are all over the place. Some
+must ask the question who in the U.S. is buying scrap gold for
+double the price of pure gold and why. A review of diamond
+imports into the U.S. show how we sometimes do not know where
+things are coming from, where they are going and what values are
+moved: over a period of many years, brokers did not declare to
+Customs the identity of the real importers of record, but gave
+instead their own tax ID or someone else`s. G. Britain has been
+declared as the place of origin and provenance of rough diamonds,
+even though G. Britain has no diamond mines. The declared price
+of polished diamonds imported from G. Britain ranged between a
+few dollars to $100,000 showing how diverse the value of stones
+is and how vulnerable this market is to mis-invoicing.
+
+-- Such clues and associated red flags can be communicated to
+banks and all relevant private sector entities for focused action
+and for their feedback with what information they find on such
+targets from their end. This can generate valuable new insights
+into specific targets and help control terrorist finance more
+effectively. A happy circle will be set off with the private
+sector making tangible contributions at a much lower cost.
+
+-- Update information on hawala and related IVTS methods of
+operation in the US and other geographic areas of concern.
+Methods keep changing and adapting to regulatory and law
+enforcement practices around the world. A new hawala review will
+be instrumental to more effective AML/CFT as well as control of
+illegal migration and smuggling. When hawala intermediaries want
+to help, they can. The Islamic State blackmails and steals a
+great deal from them too. Victims of extortion, including
+individuals and hawaladars can be extraordinary intelligence
+sources. Suspecting that this Committee may examine more in depth
+remittances, de-risking practices and hawala in the future, I
+leave a review of this issue and how hawala can be leveraged for
+CFT and crime control in the appendix to this statement.
+
+-- None of this is new. The feasibility of these proposals is
+demonstrated by the results of work on hawala, IVTS (Appendix)
+and trade of commodities like gold, diamonds and tobacco (above)
+at Northeastern in collaboration with U.S. government agencies
+right after 9/11 (Passas, 2004a, 2004c, 2004d; Passas & Jones,
+2007). Other studies have been conducted in partnership with the
+Caribbean FATF to (free trade zones and financial crime in 6
+jurisdictions) and with the Arizona Attorney General`s office,
+when we combined MSB, official and PIERS trade data to analyze a
+Trade-Based-Money-Laundering case involving the U.S., Mexico and
+China (Passas, forthcoming).
+
+Ongoing work with Europe and M. East-based research organizations
+furnishes several partners ready to be enlisted in a collective
+action (offering data, adding resources, facilitating interviews,
+etc.), for instance targeting the Islamic State. This would be an
+excellent pilot of the general approach as the Islamic State has
+enemies in virtually all state and non-state actors in and around
+the territory they control. Similar universal condemnation and
+collective action took place in the financial against coalition
+against child pornography (see http://www.missingkids.com/FCACP),
+so there is good precedent for acting against serious and
+specific targets with consensus. Moreover, legal hurdles with
+data protection in Europe might be lowered as security, refugee
+and illicit flows have become a top priority there.
+
+-- Once positive outcomes are produced, this can be scaled up for
+other groups and financial crimes to include consolidated and low-
+cost risk analysis, regularly updated and focused guidance,
+training and capacity building for business and government
+officials.
+
+With all this, instead of shooting in the dark, we can shed light
+on shadowy economic activities and go after well-defined targets.
+The data, the networks to produce new data, the technology for
+analysis, the analytical capacity, the previous experience and
+willingness to collaborate are all there. You have in your hands
+the switch to turn the lights onto what is now shadowy economic
+activities supporting the Islamic State, Boko Haram, al Shabab
+and other terror groups. I urge you to do it.

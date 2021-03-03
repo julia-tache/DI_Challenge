@@ -1,0 +1,426 @@
+Body
+
+
+
+
+Statement of Andrew P. Kelly
+Director, Center on Higher Education Reform
+American Enterprise Institute
+
+Committee on Senate Health, Education, Labor and Pensions
+
+May 20, 2015
+
+Introduction
+
+Good morning, Chairman Alexander, Ranking Member Murray, and
+distinguished Members of the Committee, and thank you for giving
+me the opportunity to share my views on the concept of risk-
+sharing in higher education.
+
+My name is Andrew Kelly and I am the director of the Center on
+Higher Education Reform at the American Enterprise Institute, a
+non-profit, non-partisan public policy research organization
+based here in Washington, DC. My comments today are my own and do
+not necessarily reflect the views of AEI.
+
+I`m here today to discuss how the federal government can give the
+colleges and universities it helps to finance a greater stake in
+student success and college affordability. Specifically, the
+question before us today is how a risk-sharing policy, where
+colleges would bear some financial responsibility for a portion
+of the federal loans that their students do not repay, might
+better align the incentives of colleges, students, and taxpayers.
+This idea has received increasing attention from both sides of
+the aisle of late, and it is an opportune time to discuss it.
+
+Today I will start by briefly outlining the problems with our
+current approach to determining student aid eligibility,
+explaining the principles of risk-sharing and why I believe it
+would represent an improvement over the status quo, and
+discussing basic policy design principles the Committee could
+consider. I will conclude with some important caveats that we
+must keep in mind.
+
+Over the past half-century, federal higher education policy has
+been focused on ensuring college access for qualified students
+who would otherwise be unable to attend due to financial
+constraints. To achieve this goal, the federal government makes
+available grants and loans to any eligible student pursuing
+education after high school.
+
+This is an admirable objective. After all, the average return to
+completing a degree or certificate remains robust, lower-income
+Americans who earn a degree are more likely to experience upward
+mobility, and a more-educated population helps grow the economy.
+
+Evidence suggests that federal need-based grants encourage
+enrollment among low-income students, and the marked increase in
+college access at all income levels reflects the expansion of the
+federal student aid system. In 1972, the year the Pell Grant was
+created, 49 percent of recent high school graduates went on to
+enroll in postsecondary education; by 2012, 66 percent had done
+so.
+
+However, federal policy has paid less attention to whether these
+student aid investments promote student success and encourage
+colleges to keep their tuition affordable. On each of these
+measures, the trends are far from encouraging. Research shows
+that college completion rates have declined over time,4 and just
+over half of the students who start a degree or certificate
+graduate within six years. Completion rates are much lower among
+disadvantaged students.
+
+Meanwhile, the sticker price of tuition at public four-year
+colleges has more than tripled since the early 1980s. Though net
+prices have increased more slowly, family incomes have not kept
+pace, putting college out of reach for many and forcing others to
+take on large amounts of debt.
+
+In 2013, 70 percent of graduates from public and nonprofit
+colleges had student loan debt, and the average borrower owed
+just under $30,000. Those who take on debt but do not graduate
+often have the most difficulty repaying their loans. The
+effective delinquency rate on student loans, after excluding
+students who are not required to make payments, is over 30
+percent, about as high as it was on subprime mortgages during the
+housing crisis.
+
+Borrowing itself is not inherently bad: if a loan enables an
+individual to pursue a high-quality postsecondary credential that
+he or she would not otherwise have been able to afford, then the
+loan is advancing economic opportunity. But when students borrow
+for programs that are unlikely to deliver a positive return on
+investment, it is easy for them to find themselves in the worst
+place of all: saddled with debt but without a credential to
+advance their career. The ranks of these borrowers are growing.
+
+Faced with these trends, policymakers are now asking how federal
+student aid policy can encourage colleges to provide a quality
+education at an affordable price.
+
+Leaders of both parties have acknowledged that these are not
+entirely, or even mostly, questions about how much we spend, but
+about how we change the incentives that existing programs create
+for colleges.
+
+There is a growing consensus in states and at the federal level
+that improving student success and college affordability requires
+reforms that better align the incentives of institutions and
+students. A host of initiatives, from outcomes-based funding in
+the states to President Obama`s college ratings to the recent
+white papers released by this committee, fit under this broad
+category.
+
+A key question is whether existing federal policies provide
+colleges with enough of a stake in student success. To be sure,
+the policymakers who designed the student aid system a half-
+century ago did not ignore these questions. They set up a three-
+pronged quality assurance regime known as the ``triad`` to govern
+eligibility for federal aid programs.
+
+Today, institutions must be accredited by a recognized
+organization, authorized by any state they operate in, and must
+meet federal standards for financial viability, student loan
+default rates, and, in the case of for-profit institutions, the
+proportion of their revenue that comes from non-federal sources
+(the ``90/10 rule``).
+
+Above these quality assurance standards, market competition is
+supposed to discipline providers. Policymakers decided to give
+aid directly to students as a portable voucher, allowing them to
+``vote with their feet`` and reward schools that offer
+affordable, high-quality programs. In the aggregate, these
+choices are supposed to hold eligible colleges and universities
+accountable for their performance.
+
+These quality assurance mechanisms have failed to protect
+consumers or taxpayers, however. Low levels of consumer
+information about costs and quality, coupled with a dearth of
+clear, comparable data on those dimensions, blunts market
+accountability. Basic information on outof- pocket costs, the
+percentage of students who complete a degree, or the likely
+return on investment at different programs is incomplete or
+unavailable. Programs with high price tags and poor outcomes
+continue to attract students and taxpayer dollars.
+
+The triad has also proven ineffective in its gate-keeping role.
+According to the most recent data available from the Integrated
+Postsecondary Education Data System (IPEDS), over 1,300
+aideligible two- and four-year colleges graduated less than 30
+percent of their first-time, full-time students in 150 percent of
+the normal time to degree. When it comes to finishing on time,
+more than 750 four-year colleges had four-year completion rates
+of 20 percent or lower. Similarly, among those institutions
+receiving federal loan dollars, nearly 500 schools had three-year
+Cohort Default Rates (CDR) of 25 percent or higher in 2014.
+
+Each part of the triad has its own shortcomings. Accreditation
+reviews rely on faculty from other institutions to evaluate their
+peers, creating a conflict of interest. It is also a binary
+measure, and the high stakes of revoking a school`s accreditation
+mean it rarely happens. A Government Accountability Office (GAO)
+analysis found that just 1 percent of accredited institutions
+lost their accreditation over a four and a half year period.
+State regulations vary considerably across the country, and few
+states authorize institutions on the basis of their student
+outcomes.
+
+At the federal level, the primary mechanism for holding colleges
+accountable the Cohort Default Rate successfully curbed the worst
+instances of fraud and abuse when first introduced in the 1990s.
+But the policy is flawed.
+
+First, it is easily gamed. So long as students default outside of
+the three-year window, colleges are held harmless for that
+failure, creating incentive to get students just over that three-
+year threshold. Indeed, when the Department of Education shifted
+from two-year to three-year default rates, loan performance was
+much worse in the threeyear window. The average default rate
+jumped 4.6 percentage points.
+
+Second, the rule is binary in nature: colleges whose default
+rates are just below the federal standard (40 percent in a given
+year or 30 percent over three consecutive years) continue to have
+full access to federal aid programs. Those institutions that are
+close to the threshold likely have incentive to improve in order
+to avoid sanction in the future. But the mass of institutions
+with default rates that are high but still below the thresholds
+bear no responsibility for loans that go into default. There is
+nothing magical about the thresholds, yet policy treats colleges
+on either side of them completely differently.
+
+Third, the binary element also makes the measure extremely high-
+stakes; losing access to Title IV aid would essentially be a
+death sentence for colleges. An entire industry has evolved to
+help colleges manage their defaults within the three-year window,
+and institutions have a host of opportunities to challenge and
+appeal the Department of Education`s ruling. And policymakers
+have been reticent to sanction schools under the policy. Just
+eight institutions were subject to sanction in 2013. This past
+year, the Department of Education revised the default rates of a
+subset of institutions on the basis of concerns about inadequate
+loan servicing, effectively saving them from sanction.
+
+Thus, existing policies have given rise to a system where
+colleges that effectively originate student loans bear little of
+the risk if borrowers are then unable to pay those loans back.
+This creates little incentive for poorly performing colleges to
+keep tuition low, enroll students who are likely to be
+successful, or change institutional practice so as to maximize
+student success.
+
+To be clear: student success is a joint product of student effort
+and institutional practice. And institutions have only limited
+control over whether students arrive prepared for college, how
+much students decide to borrow above the cost of tuition, or
+their behavior during and after college. I discuss these caveats
+below.
+
+But evidence suggests that colleges do have an effect on student
+success; that institutions who adopt research-based
+interventions can improve retention and completion rates; and
+that it is possible to contain costs without sacrificing quality.
+The question is how to structure federal policies to encourage
+colleges to focus effort and resources on these goals.
+
+Risk-sharing
+
+A risk-sharing policy would change these incentives for all
+colleges. Risk-sharing here refers to a policy that would require
+all colleges who participate in the federal loan program to
+retain some portion of the risk that their students will be
+unable to repay their loans. Specifically, colleges would be on
+the hook financially to pay back a fraction of the loans that
+their students fail to repay. In the parlance of other lending
+markets, colleges would have some ``skin in the game`` when it
+comes to student loans.
+
+The intent of such a policy is to give all colleges not just
+those with the highest default rates stronger incentive to
+consider changes to institutional practice, resource allocation,
+and tuition pricing that would lower the probability that
+borrowers experience problems in repaying their loans. Risk-
+sharing is thus designed to change institutional behavior by
+holding colleges accountable for student outcomes, not dictating
+specific changes from Washington. Colleges would maintain the
+flexibility to figure out how best to accomplish student success
+goals.
+
+How might such a policy play out in higher education? It is worth
+noting that the concept of risksharing has received significant
+attention in other lending markets, particularly in the context
+of home loans. Evidence from the period before and after the
+financial crisis suggests that the loan portfolios of mortgage
+lenders who had some skin in the game as little as three percent
+of the risk performed better than those who did not. In a
+comparative study of loan performance in the Veteran`s Affairs
+(VA) and Federal Housing Administration (FHA) loan programs,
+researchers at the Urban Institute found that VA loans were less
+likely to default than FHA loans.
+
+The researchers hypothesize that the fact that lenders in the VA
+program have skin in the game likely explains some of the
+difference in performance (though they caution that they
+establish a correlation, not causation).
+
+Because similar variation is not present in federal student
+loans, it is more difficult to project how this policy would play
+out in American higher education. But a recent paper by Temple
+University economist Douglas Webber attempted to simulate how
+different types of institutions might respond to a risk-sharing
+system, namely whether they would price risk-sharing into their
+tuition costs. Webber`s simulation suggests that a risk-sharing
+system where colleges had to pay back 20 percent or 50 percent of
+defaulted loans would ``bring about a sizable reduction in
+student loan debt,`` though at the cost of ``modestly higher
+tuition rates.``
+
+Webber shows that if colleges were able to reduce their default
+rates even 10 percent, the reduction in loan debt would be even
+larger. Webber`s simulation of a 10 percent reduction in default
+rates is likely a conservative estimate of the extent to which
+proactive institutions could improve loan repayment rates.
+Indeed, there are a number of strategies colleges could pursue in
+this regard.
+
+First, broad-access colleges could raise entrance standards and
+be more careful about enrolling students who have little chance
+of success. This would be an improvement in consumer protection;
+students should not enroll at an institution that cannot serve
+them effectively. But such a response also has consequences for
+access that I discuss below.
+
+Second, some colleges will likely change their pricing and
+enrollment policies to minimize the number of students that wind
+up with debt but no degree. One approach is to implement a free
+or low-cost ``trial period`` that allows students to test the
+waters before they take on any debt. For instance, in the
+aftermath of the Obama Administration`s effort to regulate for-
+profit colleges, Kaplan University introduced a free, three-week
+trial. Another option is to have students start taking courses
+with a lower-cost provider before transferring those credits to
+the home institution. Western Governors University has partnered
+with online course provider StraighterLine to provide this kind
+of low-risk onramp for prospective students.21
+
+Third, and most importantly, colleges will have incentive to
+restructure the student experience in ways that maximize student
+success. The most effective way to help students avoid repayment
+problems is to help them complete a credential with labor market
+value. A series of rigorous, randomized evaluations has provided
+evidence that different interventions can raise retention and
+completion rates personalized coaching, performance-based grant
+aid, full-time enrollment in a ``structured pathway.`` A
+comprehensive intervention that combined many of these strategies
+doubled graduation rates among remedial students at the City
+University of New York.
+
+Improvements are possible, provided colleges have an incentive to
+adopt evidence-based strategies. Having skin in the game could
+provide that incentive.
+
+Design Principles
+
+There are a number of design principles and caveats that the
+Committee could consider when thinking about the structure of a
+risk-sharing policy. I start with four design principles and
+conclude with two important caveats.
+
+First, leaders might consider moving away from cohort default
+rates as the key measure. On the one hand, putting institutions
+on the hook for a fraction of defaulted dollars is transparent,
+simple, and clearly pegged to a defined outcome. But default
+rates are highly imperfect measures of institutional quality and
+loan performance. Options like forbearance, deferment, and
+incomebased repayment help students avoid defaulting even if they
+are not making progress in paying back their loans. As an
+alternative, policymakers could use a measure of repayment
+progress, such as cohort`s loan balance that remains unpaid after
+the standard ten-year repayment period.
+
+Second, in terms of the structure of penalties, the simplest
+approach would be to charge institutions a flat percentage of non-
+performing loans, perhaps excluding institutions whose repayment
+rates are above a certain threshold. For example, institutions
+might pay a flat percentage of a cohort`s loan balance that
+remains at the end of the standard 10-year repayment window.
+Alternatively, a sliding scale of penalties that increased as
+repayment rates worsened would punish poor-performing
+institutions more severely, but policymakers would want to avoid
+a system that ratchets up penalties at particular thresholds in a
+way that creates large discontinuities.
+
+Third, while it is difficult to forecast in advance, it is my
+opinion that risk-sharing penalties need not be particularly
+large to get the attention of schools. One study of the mortgage
+market found marked differences in loan performance with risk
+retention as low as 3 percent. In higher education, the system
+should be designed to provide schools with an incentive to focus
+on student success, but penalties should not be so large as to
+summarily put schools out of business simply because they have
+cash flow issues.
+
+Fourth, it would be ideal to create a system that is simpler,
+more transparent, and that applies equally across all
+institutions regardless of tax status or other factors such as
+borrowing rates. We should have high expectations for all
+institutions, and a risk-sharing system can help achieve that
+goal so long as it is not riddled with provisions that exempt
+particular types of institutions.
+
+Fifth, there are clearly many factors outside an institution`s
+control such as economic recessions. Tying the risk-sharing
+formula to the national unemployment rate, for instance, and
+exempting a fraction of non-performing loans from an
+institution`s calculation based on that index, would help account
+for this risk.
+
+Caveats
+
+Now for the caveats. The most obvious criticism is that risk-
+sharing will reduce access for lowincome students. This is a
+likely outcome at some schools, and must be taken seriously. But
+it`s important to note that, in many cases, encouraging
+institutions to think twice about enrolling students that are
+unlikely to be successful is not necessarily a bad thing.
+
+For years, colleges have knowingly enrolled such students in
+order to capture additional student aid money, a practice that
+members of this committee criticized during prior hearings on for-
+profit colleges.
+
+It is also important to note that these students would still have
+access to institutions where they are more likely to be
+successful. Federal policy should encourage students to enroll in
+institutions that are prepared to serve them.
+
+But it is true that increased selectivity could keep out students
+that would benefit from schooling on the basis of their
+characteristics. Therefore, policymakers should consider offering
+institutions a bonus for every Pell Grant recipient they
+graduate. Such a reward would help balance the potential risk of
+enrolling low-income students.
+
+Colleges also have justifiable concerns that risk-sharing would
+hold them accountable for behaviors they have no control over.
+For instance, colleges cannot limit how much students are allowed
+to borrow over the cost of tuition, meaning a poorly-designed
+risk-sharing system would put them on the hook for loans that
+were not used to pay tuition. In light of this, a risk-sharing
+policy should only hold colleges responsible for a portion of the
+total sum of unpaid loan dollars.
+
+The penalty formula could multiply that sum by the ratio between
+tuition and living costs for that cohort. Similarly, colleges
+should not be punished for ineffective loan servicing.
+Alternatively, the Committee might consider giving schools the
+power to limit student borrowing under certain circumstances. For
+guidance on this issue, policymakers could look to the Department
+of Education`s current experimental sites project that empowers
+selected colleges to limit borrowing.
+
+I appreciate the opportunity to provide feedback. I am
+enthusiastic about the Committee`s focus on this topic and
+believe a well-designed risk-sharing system can help to better
+align the incentives of institutions and their students.

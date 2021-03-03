@@ -1,0 +1,272 @@
+Body
+
+
+
+
+Statement of Simon Johnson
+Ronald Kurtz Professor of Entrepreneurship
+MIT Sloan School of Management
+
+Committee on House Financial Services
+Subcommittee on Financial Institutions and Consumer Credit
+
+July 8, 2015
+
+A. Main Points
+
+1) Section 165 of the 2010 Dodd-Frank Act authorizes the Board of
+Governors of the Federal Reserve System to establish ``more
+stringent`` standards and requirements for bank holding companies
+with assets over $50 billion compared with smaller bank holding
+companies. At the same time, the Fed is granted considerable
+discretion to determine exactly how to apply these standards,
+including what requirements are imposed on different size banks
+(Section 165(a)(2)(A)). (The precise wording of the Act is
+discussed further in Section C below.)
+
+2) As a matter of practice since 2010, the Fed has not applied
+one set of standards to all banks with assets over $50 billion.
+There is substantial differentiation, depending in part on size,
+but also varying according to factors such business model,
+complexity, and opaqueness.
+
+3) This differentiation, to date, seems sensible and reasonably
+robust - subject to the points below. It also appears completely
+consistent with Congressional intent, expressed through Dodd-
+Frank and earlier legislation that is still in effect.
+
+4) The Federal Reserve has long had responsibility for the safety
+and soundness of the American financial system. This role can be
+traced back to the panic of 1907, which led to the founding of
+the Fed in 1913. The bank runs and broader economic problems of
+the 1930s led to a re-founding of the Federal Reserve System,
+with a clear mandate to prevent the financial system from getting
+out of control.2
+
+5) In the run-up to 2007-08, the Federal Reserve had a great deal
+of discretion with regard to financial regulation and supervision
+but failed: to protect consumers, to understand the buildup of
+risk around derivatives, to supervise appropriately some large
+financial institutions then under its jurisdiction, and to keep
+the system from imploding. 3 These failures were not due to lack
+of resources or an unawareness of the changes happening within
+the financial system. Rather there was a deliberate strategy of
+noninterference, along with many instances of actually
+encouraging various forms of deregulation that, in retrospect,
+are clearly understood - including by Fed staff and governors -
+as having increased levels of systemic risk.4
+
+6) At the time of the discussions and debates that led to Dodd-
+Frank, Congress had to face the facts: almost all the banking and
+financial sector regulators had failed in their tasks - some even
+more spectacularly than had the Fed. (The exception was the
+Federal Deposit Insurance Corporation, but a decision was taken
+not to promote the FDIC to the role of system regulator.)
+
+7) With regard to bank holding companies, Congress did not create
+a new authority for the Fed in Dodd-Frank. Rather Congress re-
+affirmed the existing broad authority and set some minimum bars -
+specifying bright lines to define for the Fed which kinds of bank
+holding companies require more attention, while allowing the Fed
+to retain a considerable degree of discretion regarding what
+exactly that attention will involve.5
+
+8) At the threshold of $50 billion in total assets, bank holding
+companies are now required to prepare resolution plans. They must
+also file an integrated Systemic Risk Report (FR Y-15).
+
+9) Bank holding companies with more than $10 billion in total
+assets must conduct annual company-run stress tests. Bank holding
+companies with more than $50 billion in total assets must conduct
+semiannual company run stress tests and also participate in
+stress tests run by the Federal Reserve.6
+
+10) The Fed already had authority to establish regulatory capital
+requirements, liquidity standards, risk-management standards, and
+concentration limits (including singlecounterparty credit
+limits). All of these can be and have been tailored as the Fed
+deems appropriate.7
+
+11) There are, of course, costs with running any sensible risk
+management program. Many of these so-called ``compliance costs``
+are very much in the interests of shareholders - it was
+deficiencies in or the complete lack of such programs that
+resulted in heavy losses and significant financial firm failures
+in the crisis. For example, the Dodd-Frank requirement (Section
+165(h)) of risk committees for bank holding companies with more
+than $10 billion in assets seems entirely consistent with the
+best interests of shareholders.
+
+12) Shareholders could, in principle, speak for themselves
+regarding how much risk management they want and how they would
+like this to be organized. But we must recognize the limits
+imposed on shareholder influence over bank holding company
+management, including through the extensive rules on ownership of
+banks. These restrictions are, ironically, administered by the
+Federal Reserve itself.8
+
+13) Some recent legislative proposals could increase our
+deference to the Financial Stability Board (FSB), with regard to
+either criteria or actual designation of banks (or nonbanks) as
+systemically important. This would be unwise. The FSB plays an
+important role in facilitating communication between regulators,
+but not all major countries share our concern for or general
+approach to limiting systemic risk. Relying too much on the FSB
+would excessively cede US sovereignty to a body with limited
+accountability. It could also create the possibility of a ``race
+to the bottom``, as happened with capital requirements before
+2007.
+
+14) Other proposals suggest that the Financial Stability
+Oversight Council (FSOC) should have to designate banks as
+systemic in order for them to receive heightened scrutiny from
+the Fed. This would be a strange arrangement, as FSOC by design
+includes nonbank regulators, such as the chairs of the Securities
+and Exchange Commission and the Commodity Futures Trading
+Commission. Allowing or requiring nonbank regulators to tell a
+bank regulator which banks to regulate (and potentially how to
+regulate them) does not seem wise.
+
+15) It would be helpful to require bank holding companies with at
+least $10 billion in total assets to file a Systemic Risk Report
+(FR Y-15). This report is concise and provides data on the
+systemic footprint of a financial institution. Hopefully, bank
+holding companies put together such data for their own management
+and investors in any case. Publishing such reports provides a
+clearer perspective, for regulators and for market participants,
+on differences in activities and risks across bank holding
+companies just below and just above $50 billion in assets.
+
+16) Should some bank holding companies with less than $50 billion
+in total assets be subject to heightened scrutiny, for example
+due to various off-balance sheet activities, such as derivatives?
+Without seeing Systemic Risk Reports for those firms, it is hard
+to know.
+
+17) The available Systemic Risk Reports also suggest that, at all
+size levels, it would be sensible to think of bank holding
+company size more in terms of total exposure (on-balance sheet
+plus off-balance sheet) as defined in those reports, rather than
+the more narrow measure of total consolidated assets. (More on
+this in Section B below.)
+
+B. The Critical Threshold Issue
+
+What if the threshold for enhanced prudential standards were
+lifted, for example, to $100 billion? At the end of 2014, there
+were 9 bank holding companies that had consolidated assets
+between $50 billion and $100 billion: Deutsche Bank Trust
+Corporation ($56 billion), Zions Bancorporation ($57 billion),
+Huntington Bancshares Incorporated ($66 billion), Comerica
+Incorporated ($70 billion), Discover Financial Services ($83
+billion), BBVA Compass Bancshares ($83 billion), Bancwest
+Corporation ($90 billion), KeyCorp ($94 billion), M&T Bank
+Corporation ($97 billion).9 However, a better measure of
+potential significance in the financial system as a whole is
+``total exposures`` of a bank holding company, as defined in the
+Banking Organization Systemic Risk Report form (FR Y-15, Schedule
+A, line 4).10 This requires a bank to report both its on-balance
+sheet and off-balance sheet activities, including derivatives
+exposures and credit card commitments, in a comparable way.11 As
+we learned in 2007 and 2008, off-balance sheet activities are
+important and can - particularly at a time of stress - have major
+impact on solvency of financial institutions and on the spillover
+effects from potential failures.
+
+In the latest available Systemic Risk Reports, from the end of
+2014, six of these 9 bank holding companies actually had ``total
+exposure`` (on- and off-balance sheet) over $100 billion.12 It is
+hard to argue that the fate of a bank holding company with a
+total exposure threshold of over $100 billion is definitely
+inconsequential to the system as a whole.13
+
+Of the three bank holding companies that had under $100 billion
+in total exposure, one is a subsidiary of a large non-US bank
+that recently failed the stress tests conducted by the Fed.14 It
+would seem unwise to suddenly regard those firms as no longer
+needing more stringent standards than required for smaller and
+much simpler banks. This leaves Huntington Bancshares
+Incorporated and Zions Bancorporation below $100 billion in total
+exposure.15
+
+While some regional banks have relatively simple business models,
+others are at least partially more complex. For example, five of
+the 9 bank holding companies with under $100 billion in total
+assets are (i.e., own) registered swaps dealers or have a
+significant exposure to derivatives.16 Regional banks, including
+those in the $50 billion to $100 billion total asset range, were
+reportedly involved in lobbying for the repeal of Section 716 of
+Dodd-Frank, which would have ``pushed out`` some swaps from their
+insured bank subsidiaries. The repeal of Section 716 at the end
+of 2014 is a further reason for the Fed and other regulators to
+pay close attention to regional banks.
+
+If the discussion turns to considering lifting the scrutiny and
+reporting requirements for banks having over $100 billion in
+total assets, then looking at total exposures remains important.
+In the Systemic Risk Reports for the end of 2013, all of the bank
+holding companies with over $100 billion in assets actually had
+total exposure of at least $140 billion.17
+
+C. Regulatory Interpretation of Dodd-Frank
+
+Some recent prominent discussion of the Dodd-Frank Act suggests
+that bank holding companies with over $50 billion are
+``designated`` as ``systemic``. But this is not what the
+legislation actually says and this is not how the law has been
+interpreted by regulators.
+
+Section 165(a)(1) of the 2010 Dodd-Frank Wall Street Reform and
+Consumer Protection Act reads,
+
+``In order to prevent or mitigate risks to the financial
+stability of the United States that could arise from the material
+financial distress or failure, or ongoing activities, of large,
+interconnected financial institutions, the Board of Governors
+shall, on its own or pursuant to recommendations by the Council
+under section 115, establish prudential standards for nonbank
+financial companies supervised by the Board of Governors and bank
+holding companies with total consolidated assets equal to or
+greater than $50,000,000,000 that
+
+(A) are more stringent than the standards and requirements
+applicable to nonbank financial companies and bank holding
+companies that do not present similar risks to the financial
+stability of the United States; and
+
+(B) increase in stringency, based on the considerations
+identified in subsection (b)(3).`` Section 165(a)(2) stipulates
+that the Board of Governors may ``differentiate among companies
+on an individual basis or by category, taking into consideration
+their capital structure, riskiness, complexity, financial
+activities (including the financial activities of their
+subsidiaries), size, and any other risk-related factors that the
+Board of Governors deems appropriate.`` And the threshold for
+applying some standards may be set above $50 billion.
+
+The Federal Reserve appears to have interpreted this and related
+sections of Dodd-Frank exactly as intended, i.e., as requiring
+additional scrutiny for bank holding companies over $50 billion,
+compared with smaller bank holding companies, but not as
+requiring that all bank holding companies over $50 billion be
+treated the same way.18
+
+Martin J. Gruenberg, chairman of the FDIC, confirms that this is
+how regulators have interpreted the law.19
+
+``In implementing the requirement for resolution plans, the FDIC
+and the Federal Reserve instituted a staggered schedule for plan
+submissions to reflect differing risk profiles``.
+
+And,
+
+``The FDIC`s stress testing rules, like those of other agencies,
+are tailored to the size of the institutions consistent with the
+expectations under section 165 for progressive application of the
+requirements.``
+
+Overall, the Dodd-Frank financial reforms told the Fed to be more
+careful in its regulation of bank holding companies with more
+than $50 billion in total assets, but there was definitely no one-
+size-fits-all requirement. The Fed and other regulators seem to
+have followed both the letter and spirit of this instruction.

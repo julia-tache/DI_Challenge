@@ -1,0 +1,1149 @@
+Body
+
+
+
+
+Statement of Hal Salzman, Ph.D.
+Professor, E.J. Bloustein School of Planning & Public Policy
+J.J. Heldrich Center for Workforce Development
+Rutgers University
+
+Committee on the Senate Judiciary
+
+March 17, 2015
+
+Mr. Chairman and members of the Committee, thank you for inviting
+me to speak on the topic of ``Immigration Reforms Needed to
+Protect Skilled American Workers,`` and in particular on high-
+skill labor demand and supply, and the size and impact of the
+high skill guestworker labor force. My analysis draws on several
+decades of workforce research on technology industries,
+globalization, and several recent, in-depth studies of STEM labor
+supply and, currently, on STEM educational pathways and
+attainment. This research was conducted with my colleagues
+Leonard Lynn at Case Western Reserve University, Lindsay Lowell
+at Georgetown University, and Daniel Kuehn, American University,
+and is funded by the Sloan Foundation and the National Science
+Foundation.1
+
+Assessing approaches to immigration reform for high skill workers
+involves, at the core of the issue, understanding whether the
+nation benefits from technology firms using their current levels
+of high-skill guestworkers and the likely impact of various
+legislative changes proposed. Let me start with a point on which
+nearly all are in agreement: guestworker flows should be
+something greater than zero, and something less than 145 million
+(the size of the U.S. workforce).
+
+Thus, the issue is not about whether or not to have guestworkers;
+it is about determining the right number and the policies
+governing their work conditions. In terms of high-skill
+guestworkers, primarily on H-1B and L visas, determining the
+right number, or evaluating whether increases or decreases in the
+number are best for the economy, and impact on the American
+worker, we want to know: Is there a shortage that impedes
+business productivity and growth and national prosperity?
+Answering this question depends fundamentally on examining the
+evidence about three issues:
+
+The adequacy of supply of U.S. STEM graduates and workers;
+
+The size of current and proposed guestworkers flows;
+
+Impact on U.S. workforce, on innovation capacity, on the nation.
+
+When considering the issues of whether there are enough U.S.
+students and workers to fill STEM jobs, whether industry has a
+real labor shortage or is just dissatisfied with the time and
+effort it takes to find the workers it wants, or is dissatisfied
+with the wages it needs to pay to get the workers it wants, let
+me say that there is no single study that conclusively answers
+those questions; our measures are often imprecise or at an
+aggregate level that may not address the situation in each and
+every firm or industry. What we want to consider, thus, is what
+is indicated by the preponderance of evidence, and what are the
+most direct and relevant measures of the demand for, and impact
+of, STEM guestworkers.
+
+My colleagues and I have examined the key questions using
+multiple methods, data, and indicators from field work and
+interviews at firms to analysis of large, national datasets. The
+preponderance of evidence is fairly clear that:
+
+(1) The U.S. supply of top performing graduates is large and far
+exceeds the hiring needs of the STEM industries, with only half
+of new STEM graduates finding jobs in a STEM occupation (and only
+a third of all STEM graduates in the workforce hold a STEM job);
+
+All market indicators, such as wages and employment rates,
+suggest that, with few exceptions, an ample supply of labor is
+available given current and projected demand (demand for computer
+science graduates, as stated by the IT industry, can be met by
+just half to two-thirds of the current annual supply of U.S.
+graduates);
+
+Guestworker supply is large and highly concentrated in the IT
+industry; it is likely a factor in the flat wage levels in the IT
+industry and, perhaps, for a substitution of young, entry-level
+guestworkers for experienced, incumbent, U.S. workers; and, most
+importantly,
+
+The predominant function of IT guestworker visa programs is to
+facilitate the offshoring of IT work that is, the ability of
+firms to move IT work from the U.S. to offshore locations is
+highly dependent on their supply of H-1B and L visas for their
+companies. These are companies such as IBM, Accenture, Deloitte,
+Ernst & Young as well as the internationally-based firms such as
+Infosys, Wipro, and TCS.
+
+The second, and growing, use of guestworkers is by product firms
+and U.S.-based service firms to staff their workforces for
+largely domestic-based projects. The largest H1B visa sponsors
+among these would include Microsoft, Google, Intel, Oracle,
+Apple, and Amazon (Top 100 H1B Visa Sponsors, 2013). There are
+then a number of smaller firms that provide, in aggregate,
+significant staffing services both temporary and permanent. These
+firms supply guestworkers to a range of other firms and are more
+often identified as those offering substantially lower wages and
+engaging in substandard labor practices.
+
+These findings suggest that:
+
+The large use of guestworkers by firms in each of these segments
+combine, in aggregate, to distort the STEM labor market, with the
+number of guestworkers equal to two-thirds of current entry-level
+and early-career hiring; it is high-skill guestworker policies,
+rather than market competition, that currently determine working
+conditions and job opportunities for U.S. STEM workers, with
+diminished opportunities for students and workers who wish to
+pursue a career in the IT industry. 2
+
+Current guestworker visa policies for students and new graduates
+appear to provide incentives to colleges and universities to
+establish Masters programs that, as their business model, almost
+exclusively recruit foreign students into lower quality programs
+that provide easy entry into the U.S. labor market, further
+expanding the supply of entry-level STEM workers.
+
+Proposed high-skill guestworker legislation would expand the
+supply of guestworkers to levels greater than the total number of
+new technology jobs; that is, these visa changes would provide
+enough guestworkers to fill every new job opening in the IT
+workforce with a reserve large enough to allow firms to legally
+substitute young guestworkers for their incumbent workforce, both
+directly and through expanded offshoring. (8) ``Green Cards for
+Grads`` provisions in I-Squared and other bills would further
+distort the U.S. higher education system, providing incentives
+for colleges and universities to establish, or expand current
+Masters programs as ``global services`` that offer a green card
+for the price of a graduate degree, and that are offered
+primarily or even exclusively for foreign students and directly
+or indirectly exclude U.S. students.
+
+In sum, current policies and the proposed changes in high skill
+guestworker visas and immigration policies that increase the
+supply of high skill guestworkers are likely to exacerbate the
+already deteriorating labor force conditions and career prospects
+for STEM graduates and workers. Notably, it is only the IT
+industries that claim worker shortages whereas nearly all other
+STEM fields have acknowledged the need to address problems of
+oversupply and, in many science fields, poor career prospects for
+STEM graduates.
+
+1. The supply of STEM graduates
+
+The U.S. STEM workforce numbers about 7.5 to 8 million, or about
+5 percent of the workforce. The computer occupations comprise
+about half (48.5%) of the STEM workforce at 3.7 to 4 million
+workers. If we use the BLS projections for IT job growth, which
+is comprised of replacements (for those leaving the workforce
+because of retirements and job separations layoffs and quits) and
+growth of the workforce, the IT industry needs approximately
+124,000 new workers each year. Mircosoft`s Washington
+representative and counsel Brad Smith (in his Congressional
+testimony) uses an earlier BLS projection of an annual increase
+of 120,000, and the trade organization code.org, echoed by the
+Computing Research Association, use 150,000 as the expected
+annual demand for new IT workers (Harsha, 2014). Smith and these
+associations then assert that the BLS workforce growth estimates
+represent the demand for computer science graduates. Matched
+against annual computer science graduation of 67,000 in 2012, the
+claim of a supply shortage is made. It is these statistics and
+claims that are repeated widely.
+
+However, such claims misinterpret the BLS workforce projections
+for the computer occupations in asserting it is a demand for
+computer science graduates. For example, Daniel Costa conducted a
+detailed study of these computer science shortage claims by
+Microsoft and other companies and shows the evidence does not
+support these claims because, among other reasons, ``[i]t is a
+well-known fact that computer science graduates are not the only
+source of new hires in computing....less than one-fourth to less
+than one-half of workers in computing occupations have a computer
+science degree`` (Costa, 2012). In fact, of those currently in
+computer occupations, only 14 percent hold a computer science
+degree and another 4 percent have electrical engineering (EE)
+degrees. Since that reflects the education level of the entire
+current IT workforce, of all ages, it could understate the
+current cohort education levels.
+
+Examining recent cohorts of all new entrants into IT occupations
+who have a post-secondary education, we find 34 percent have a
+bachelors or master computer science degree (See Figure 1); of
+just the pool of four-year college graduates entering computer
+occupations, 46 percent have a computer science degree. About 36
+percent of entrants into computer occupations do not have any
+four year degree. Thus, we estimate that demand for new workers
+in computer occupations with a computer science degree as
+approximately 29 percent of the BLS projection of total demand
+for new workers (65% of new workforce entrants in computer
+occupations have a four-year degree and 46% of those have a
+degree in computer science, or 29% of all new workforce
+entrants). Using the actual educational composition of the
+computer occupations as an estimate of hiring demand by education
+and degree, the supply of computer science graduates needed to
+meet industry demand would be approximately 36,500 computer
+science graduates each year (based on the BLS projection of
+124,000 new jobs). Figure 2 shows the historical graduation
+numbers of computer science graduates.
+
+Current graduation rates indicate that projected employment
+demand specifically for computer science (CS) graduates can be
+met by about half of the current supply of 70,000 Bachelors CS
+graduates each year, and the balance of demand can be met by
+those graduating with a range of other degrees, as is the
+historical pattern. Even if current industry hiring is for a much
+greater level of computer scientists than historical hiring
+patterns, the current pool of graduates would provide sufficient
+numbers of computer scientists to meet industry demand. Our
+analysis of a large, nationally representative survey of a recent
+college cohort by the National Center for Educational Statistics
+finds that only two-thirds of computer science graduates went
+into IT jobs in 2009 (that would include all IT jobs, not just
+those for formally defined as computer occupations). Of those not
+landing an IT job, half said they found a better job elsewhere.
+Fully one third reported there were no IT jobs available
+(although this was the year after the start of the Great
+Recession, this is only slightly lower than the historical trend;
+Salzman, et al., 2013). Also worth noting is that an additional
+64,341 students earned an Associates degree, certification or
+licensure in IT in 2012, also far exceeding the expected growth
+of 44,600 new IT workers with less than a Bachelors degree for
+work in the computer occupations (many of whom do not require an
+Associates degree, certification or licensure).
+
+STEM beyond IT
+
+The demand for guestworkers and the various claims of
+``shortages`` often discuss the labor market demand as a more
+general STEM workforce/industry problem. As noted above,
+guestworkers are predominantly employed in the IT industry, and
+are predominantly used to support offshore software development,
+with a second significant use to provide lower cost labor for
+positions in the U.S., either directly for software product firms
+or for their subcontractors and personnel staffing firms. If
+there really were a shortage of technical and scientific talent
+in the U.S., we should observe it in other STEM industries, not
+just in IT. In fact, most of the other STEM occupations and
+industries -science, engineering, and math should have workforce
+that are more difficult to develop given the more demanding
+requirements and longer time period required for education and
+training. Of all the STEM fields, ``T``, which is almost
+exclusively computer science at the four-year college degree
+level, and math (also an IT ``feeder`` major) are the least
+demanding fields of all the STEM disciplines in terms of STEM
+credit hours. In Figure 3, which plots the distribution of credit
+hours by major (of those graduating at four-year colleges), the
+computer science and math majors take far fewer STEM credits than
+either science or engineering graduates. It should, thus, be
+easier to expand the number of computer science and math majors
+than science and engineering majors given current resources.
+
+Kernel density estimate
+
+Life&Phys Science Math CS/IT Engineering
+
+Yet, science and engineering firms are not claiming they need
+guestworkers to address a shortage. In fact, studies of science
+careers finds there is a glut of Ph.D. life scientists resulting
+in poor employment prospects for new graduates and post-doctoral
+scientists (e.g., Teitelbaum 2008; Stephan, 2012; Freeman, 2004;
+NIH, 2012). The National Institutes of Health has developed a
+program to help new biomedical Ph.D.s find alternative careers in
+the face of ``unattractive`` job prospects in the field (NIH,
+2012). The NIH Director`s ``Broadening Experience in Scientific
+Training`` (BEST) program was launched three years ago in
+response to findings by many researchers and the NIH Advisory
+Committee to the Director (ACD) Biomedical Workforce Task Force
+which found few career opportunities for biomedical scientists in
+traditional science fields; this program is intended to address
+the oversupply of biomedical scientists by developing alternative
+career paths they can pursue. Overall, in the science fields,
+there are twice as many university graduates at the Bachelors
+level than the number who enter into a science occupation every
+year. Similarly, engineering schools graduate 50 percent more
+graduates than find jobs in engineering each year (see Figure 4);
+the one engineering area where there has been a shortage,
+petroleum engineering, is the exception that proves the rule (see
+discussion of petroleum engineers, below).
+
+If we examine the entire workforce, of all incumbent workers
+currently employed, a recent study by the U.S. Census Bureau
+finds that of those who have a STEM degree, only 36% are employed
+in a STEM field (U.S. Census Bureau, 2012). This is consistent
+with the National Science Foundation`s analyses of field of
+degree and occupation. Figure 5 shows the NSF analysis of degree
+holders and occupation, showing less than a third of science and
+engineering degree holders are in a science or engineering
+occupation. Although some portion of the STEM degree holders who
+are not in a formal STEM job are no doubt working in jobs
+utilizing their STEM education, the evidence suggests there is
+still a very large supply of STEM educated workers available to
+STEM industries if there were demand for them. The evidence does
+not reflect a deficit in the number of STEM graduates in the
+workforce or in our current annual production rates of STEM
+graduates.
+
+Rather than ``shortages,`` the concern about the STEM workforce
+overall is about the worsening career prospects and indications
+that supply far in excess of demand weakens the labor market in
+these fields, motivating students to pursue careers elsewhere.
+This was the finding in our analysis of changes in the
+composition of STEM graduates going into STEM jobs over the past
+three decades. We found that although the overall supply remained
+strong, fewer of the highest performing students were going into
+STEM jobs (Lowell, et al., 2009). Other STEM workforce
+researchers find similar outcomes and evidence supporting similar
+conclusions. Even the lead author of a widely-cited study that
+asserted the need for more STEM graduates, Tony Carnevale of
+Georgetown University`s Center on Education and the Workforce,
+said, ``If you`re a high performing math student in America, from
+a purely economic point of view, it`s crazy to go into STEM``
+(Light and Silverman, 2011). And, in fact, many of the top
+students flock to Wall Street and corporate law firms and other
+non-STEM jobs.
+
+It is thus curious that claims about ``STEM shortages`` only
+assert a need to fill IT jobs for which, paradoxically, the vast
+majority are not filled by STEM graduates. Nor do most IT jobs
+require the education or training of a STEM degree (which, in any
+case, is the least demanding of all STEM fields in terms of STEM
+credit hours.) Moreover, these shortage claims rest almost
+entirely on employer reports about the difficulties they face in
+hiring.
+
+Fieldwork research, including ours (Lynn and Salzman, 2010;
+Salzman, 2000) finds that reports of hiring difficulties often
+reflect unrealistic expectations. Traditionally, during tight
+labor markets, such as before the dot.com crash, employers will
+hire good candidates who may not be ``perfect,`` but the firms
+will invest in training them. However, recent studies of employer
+recruiting find a decrease in recruitment intensity and little
+evidence of efforts to address unmet hiring needs. Peter Cappelli
+(2012) of the Wharton School concludes that employers have become
+willing to wait, hoping for the perfect candidate, the ``purple
+squirrel,`` believing that unemployment is high and there must be
+someone who will not require training. Because it is a slow
+economy, there is less urgency to fill positions quickly and a
+longer search time is possible.
+
+Do Markets Work? The case of Petroleum Engineering3
+
+Petroleum engineering offers an important case of observed labor
+market shortages and the market response of firms and students.
+It is instructive to consider in light of current claims about
+market failure in the IT sector and industry`s assertion that
+they are unable to obtain the needed supply of graduates from
+U.S. colleges and universities. This case is of further interest
+because, as noted above, engineering is the most demanding
+college major in terms of credit hours, technical content, and
+time to completion whereas computer science and math degrees have
+the lowest course hour distribution of the STEM fields,
+suggesting increases in engineering supply should be more
+difficult to achieve than in other fields.
+
+In the 1970s, the building of the Trans-Alaskan Pipeline and
+increased oil exploration in other regions led to rapidly
+increasing demand for petroleum engineers. By 2002, however,
+Occupational Outlook forecast an employment decline ``because
+most of the petroleum-producing areas in the United States
+already have been explored`` (BLS, 2004), and this continued to
+be the forecast through the 2008 edition of Occupational Outlook.
+In the most recent edition, 2014-2015, however, the BLS forecast
+changed to a projected employment increase of 26 percent over the
+coming decade because ``petroleum engineers increasingly will be
+needed to develop new resources, as well as new methods of
+extracting more from existing sources.`` The shift to greater
+exploration followed the 2008 oil price spike, which also
+increased the returns to investments in types of oil extraction
+that were previously cost-prohibitive (e.g., tar sands), thus
+increasing the demand for petroleum engineers, especially those
+with new skill sets.
+
+The number of job openings began to exceed the number of
+graduates around 2002, even though there still had been no
+overall workforce growth. This was because of retirements and
+little hiring since the earlier oil boom and hiring expansion of
+the 1970s and 1980s. In some interviews with managers in oil
+companies in the mid-2000s, we found high levels of concern
+because the large cohort of engineers hired in the 1970s and
+1980s was retiring just as the firms were launching large
+development and maintenance projects. This underlying demand was
+then exacerbated by the oil price spike, which intensified
+exploration efforts as higher oil prices made previously
+unprofitable exploration profitable. The response to this
+confluence of events - little hiring for many years, a current
+workforce that was aging and retiring and sudden increase in oil
+exploration led to a classic textbook example of market
+disequilibrium. The earlier shortage had already led to increases
+in starting salaries, but with the oil price spike petroleum
+engineering starting salaries rose even further, becoming the
+highest of all fields of engineering for new bachelor`s degree
+graduates (National Association of Colleges and Employers, 2010).
+Starting salaries jumped from an already high $43,674 in 1997 to
+$50,400 in 1999. Starting salaries rose further to $55,987 in
+2003, $61,516 in 2005 (Bureau of Labor Statistics, 2004, 2006),
+and $86,220 in 2010 (National Association of Colleges and
+Employers, 2010).
+
+In all these years, petroleum engineering salaries were higher
+than other engineering salaries but, until before the spike in
+demand, the petroleum engineering starting salary premium was
+relatively small. For example, the 1997 $43,674 starting salary
+for petroleum engineers was only slightly greater than that for
+the second highest paid engineering field, chemical engineers,
+who received an average starting salary of $42,817. In 2010,
+however, the starting salary of $86,220 for petroleum engineers
+was much higher than that of the second highest field, still
+chemical engineering, which was only $65,142 (National
+Association of Colleges and Employers, 2010).
+
+In response to this and other market signals the number of new
+petroleum engineering degrees awarded by U.S. universities more
+than tripled (American Oil & Gas Reporter, 2010). In just the
+period from 2007-2008 to 2010-2011, U.S. university petroleum
+engineering departments increased the number of Ph.D. graduates
+from 39 to 95. Texas A&M and Colorado School of Mines more than
+tripled their output of new graduates from 42 to 128 and 32 to
+100, respectively. Reports from some petroleum engineering
+programs indicate an even greater increase in demand in
+subsequent years (TTU, 2010). The dramatic increase in petroleum
+engineering followed the steep rise in starting salaries, which
+in turn reflected an observable increase in industry demand. This
+would seem to be a clear textbook case of efficient and
+responsive market functioning. It seems to show that normal
+market mechanisms, namely wage increases, can dramatically and
+quickly increase supply.
+
+2.Guestworker Flows4
+
+H-1B nonimmigrant visa use is dominated by the IT sector. Under
+international trade law, the United States may not restrict the
+annual number of H-1B visas to fewer than 65,000 annually, but
+U.S. law has been amended to provide an additional 20,000 visas
+for foreign STEM graduates of U.S. universities, and there is no
+cap on the number of H-1Bs sponsored by nonprofit employers such
+as universities.
+
+The next largest visa used by STEM employers is the L-1 visa for
+intracompany transferees. The L-1 has two categories, the L-1A
+for executives and managers (it permits work for up to seven
+years) and the L-1B for employees with ``specialized knowledge``
+(it permits work for up to five years). Spouses and children of L-
+1 workers may be admitted with an L-2 visa, which grants the L-2
+holder work authorization for the same amount of time as the
+principal L-1 holder. There are no caps on the L visa, and its
+use has increased over time. An unknown but substantial
+proportion of foreign students on F-1 nonimmigrant student visas
+change status directly to the H-1B visa if sponsored by an
+employer, while many other foreign students first work after
+graduation through the Optional Practical Training (OPT) program.
+The permitted stay to work under the OPT was two years in the
+past, but it has been changed to 12 months. In 2008, however, the
+program was extended by 17 months for graduates in STEM fields,
+meaning that these graduates can work on OPT status for a total
+of 29 months.5 Another temporary visa that often supplies workers
+for IT jobs is the O-1 visa for workers of extraordinary ability
+(10,590 total O-1 visas were issued in 2012).
+
+Figure 6 shows the annual number of visas issued to guestworkers
+in the relevant visa categories, i.e., the H-1B, the L, and
+foreign-student OPT workers (see Appendix A for method and
+calculations). The number of workers hired in these visa
+categories has been growing over time. The H-1B trends reflect
+the booming demand during the dot-com bubble years and a
+congressional cap that was raised to 195,000 (it dropped down to
+65,000 in 2003). The H-1B numbers dropped sharply after 2001,
+only to rise again up until the recession of 2008. Use by
+employers of all of the guestworker visa programs declined
+following the crash of the economy in 2008, but it has been
+increasing since that time. In FY2011, these guestworker visa
+programs totaled 372,000 workers.
+
+Note: Optional Practical Training (OPT)visa numbers for 2009,
+2010, and 2011 are estimated based on the 2008 total reported by
+the Department of Homeland Security The initial OPT estimates use
+the OPT-extension ratioto initial OPT in 2008, and the OPT-STEM
+extension statistics for 2007-2013 are used to estimate 2009,
+2010, and 2011 initial OPT visas Source Department of State
+(2012) and Department of Homeland Security (2008 and unpublished
+DHS data)
+
+The predominant employers of guestworkers are either in the IT
+industry or in non-IT industries but with IT occupations to fill.
+For the H-1B workers, about 50 percent are approved for
+employment in formally defined IT occupations.6 There are no
+official, detailed statistics on the occupational categories of L-
+1 visa holders, but a 2006 study by the Department of Homeland
+Security (DHS) Office of the Inspector General (OIG) concluded
+that the evidence suggested the L-1 visa was effectively ``The
+Computer Visa.`` The study noted that, although ``the L-1 visa
+program is not specifically tailored for the computer or
+information technology (IT) industries, the positions L-1
+applicants are filling are most often related to computers and
+IT.`` In addition, ``...nine of the ten firms that petitioned for
+the most L-1 workers were computer and IT related outsourcing
+firms that specialize in labor from India...[and] almost 50
+percent of the L-1B (specialized knowledge) petitions...named
+beneficiaries...born in India.`` (DHS 2006, 4) Other analysts
+have also concluded that the L-1 visa is primarily used for the
+IT industry and IT occupations, and that the number of all L
+visas has been steeply increasing since the Inspector General`s
+report in 2006. There are no publicly available data on the
+number of L-2 visa holders (for spouses of L-1 visa holders) who
+have been granted employment authorization by DHS or where they
+are employed. There are also no publicly available occupational
+or employer data on initial OPT visas (the maximum 12-month work
+permit provided to all college graduates on an F-1 visa), but we
+obtained data on the 17-month OPT-STEM extension applicants for
+2008 through early 2013. Our analysis found the vast majority (77
+percent) were for IT occupations and/or IT firms (the other major
+group is biomedical and pharmaceutical industries). Because these
+guestworker programs are clearly used most intensively by the IT
+industry and for IT occupations, we focus our analysis on the IT
+workforce to identify the role of guestworkers and potential
+workforce impacts.
+
+The H-1B and F-1/OPT guestworker visa categories are primarily
+for workers with at least a bachelor`s degree, though the H-1B
+category does permit use of experience as a degree equivalent.7
+Except for L-1 visas granted under a ``blanket`` petition, which
+requires the worker to possess a college degree, the main L-1
+visa categories do not have a college degree requirement; they
+require only that the worker be coming to fill a
+managerial/executive position (L-1A) or a position requiring
+specialized knowledge (L-1B). However, the 2006 DHS OIG report
+suggested that the L visa is more likely to be used by employers
+to import workers with a foreign college degree of three years
+instead of the U.S. standard of four years, than to hire those
+without a college degree at all. The L-2 spousal/child visa has
+no education, degree, or skill requirement (but the spouse may
+work, unlike, say, the spouse of an H-1B visa holder). Given the
+wide range of educational levels in the IT workforce,
+guestworkers at many different education and skill levels could
+be employed in the IT sector. The combined number of annual IT
+guestworker entrants (of those with work visas eligible for
+employment) for FY2011 is thus conservatively estimated to range
+from 134,000 to 228,000.
+
+The crucial question is: How significant is the flow of
+guestworkers into the IT labor market? We first look at this flow
+as consisting of the pool of eligible IT workforce entrants.
+Ideally we would want to know how many job openings were filled
+by guestworkers and how many were filled from the domestic labor
+pool (again, the domestic labor pool comprises both citizens and
+permanent residents). Unfortunately, the data on job openings in
+the IT field are not available; the best data available to
+address this question measure job tenure of those in IT
+occupations.8 We examine the number of IT workers who began their
+jobs in the year 2011 and were still employed in January 2012,
+and we compare that to the number of guestworkers who were
+approved for initial work in 2011. While the annual entry of
+guestworkers could be taking IT jobs that were opening due to
+turnover, as well as those newly created, we cannot ascertain
+these two types of jobs separately. Because these are the only
+reliable data available on new guestworker entrants, as well as
+on total new IT jobs, we compare these two measures to gauge the
+relative supply of guestworkers in the IT sector.9 We estimate
+that during FY2011, 372,516 high-skill guestworkers were issued
+visas to enter the U.S. labor market, and, of these workers,
+between 134,000 and 228,500 were available for IT employment. We
+use the mid-range estimate of 160,755 IT guestworkers for the
+year FY2011.
+
+Hiring and age/education of the IT workforce
+
+In January 2012, 698,412 workers reported that they started an IT
+job over the course of 2011. Our estimates of the number of
+potential new guestworkers in IT fields equal, at the mid-range
+estimate of 160,755, almost a quarter of all new hires in these
+occupations. However, as discussed earlier, the IT workforce
+comprises workers with a wide range of skills and education,
+while the high-skill guestworker programs are specifically
+designed to limit this guestworker population to those with
+particular skills and/or a college degree. In fact, the data on
+high-skill guestworkers show that nearly all have at least a
+bachelor`s degree. We thus examine the characteristics of the new
+guestworkers and jobs held by workers with similar educational
+backgrounds and age groups. The population of IT workers with a
+college degree (bachelor`s and above) who started their jobs
+during 2011 is 483,692. Of these, the 160,755 guestworkers
+represent approximately a third of all new IT jobs (specifically,
+we estimate the number of guestworkers to range from a low of 28
+percent to a high of 47 percent of the number of all IT jobs in
+2011 that were filled by a college graduate hired in that year).
+A third (34.3 percent) of workers who began their IT jobs in 2011
+were under the age of 30; among guestworkers approved for H-1B
+visas for initial employment in 2011, the under-30 share was 57
+percent (DHS 2012). An even higher share of F-1/OPT guestworkers
+are likely to be under the age of 30, since it is a benefit
+extended to recent college graduates. A more detailed analysis of
+the age distributions of U.S. workers beginning their IT jobs
+during 2011 and H-1B guestworkers approved for initial employment
+shows striking differences: More than half (52 percent) of new
+U.S. IT hires were over the age of 35, compared to only 18
+percent of H-1B new workers. If we examine IT new hires and IT
+guestworkers under the age of 30 - the population of entry-level
+and early-career workers we find that the number of new
+guestworkers in 2012 was equal to nearly two-thirds (64%) the
+number of all new hires under age 30 in the United States (Figure
+7).
+
+3. Who uses guestworkers and what is their role? The Role of U.S.
+Guestworker Policy and Offshoring of IT work
+
+The predominant demand for guestworkers is in the IT industry
+and, within the IT industry, it is by the offshoring companies.
+The use of guestworkers is required to support offshore IT
+development because a portion of the team (often estimated as
+about one-third of the entire project team) is dedicated to
+managing the customer account in the United States, to do
+requirements analysis, quality assurance, implementation, and
+liaise with the offshore team. Without this onshore team, it
+would be nearly impossible for a company to do offshore
+development. It is, thus, not the case, as often asserted, that
+without guestworkers firms would move their work offshore. It is,
+in fact, quite the opposite: without guestworkers, conducting
+work offshore would be much more difficult and the cost savings
+would be substantially reduced. This finding is based partly on
+field work (Salzman, 2000; Salzman and Biswas, 2001), but also
+comes directly from the statements of offshoring companies in
+their SEC filings (10-K and 20-F forms).
+
+Infosys, one of the larger Indian IT consulting and services
+firms, and one of the larger users of H-1B visas in 2013, states
+that provisions in the early drafts of Senate legislation (no
+longer in current versions such as I-Squared) that would ``..
+.require employers to pay higher wages & conduct US worker
+recruitment, and limit number of H-1B and L-1 workers in a
+company`s U.S. workforce and ability of company to place H-1B and
+L-1B workers at third party worksites...`` (Infosys, 20-F, 2014),
+would lead to a situation where the ``.. .cost of doing business
+would increase`` The result of such legislation would be that,
+``Any restriction on ability to deploy trained offshore resources
+at client locations may require Infosys to replace existing
+offshore resources with local resources, or hire additional local
+resources, potentially at higher wages.`` [emphasis added] This
+is because, according to Infosys, the ``..majority of
+professionals in the US hold H-1B visas or L-1 visas; ability of
+our technology professionals to engage in work-related activity
+abroad depends on ability to obtain the visas and
+permits.``[emphasis added] Further, ``Reliance on work visas for
+a significant number of technology professionals makes Infosys
+particularly vulnerable to such changes and variations as it
+affects our ability to staff projects with technology
+professionals who are not citizens of the country where the work
+is to be performed.``
+
+It is worth noting that nowhere does Infosys state that it would
+be unable to find sufficient workers in the U.S. and who are
+eligible to work (i.e., U.S. citizen, permanent resident, or
+current holders of work visas) but, rather, that it would raise
+their costs and require them to change their business model to
+one relying on U.S. hiring.
+
+Another large IT offshoring company, WIPRO, discusses proposed
+restrictions on guestworker visas as well. They note it would
+affect their ``. ability to compete for and provide services to
+clients in U.S.`` because they might not be able to ``...
+continue to be able to obtain any or a sufficient number of H-1B
+and L-1 visas for our onsite employees on the same timeframe as
+we currently maintain.`` Interestingly, WIPRO discusses as a
+potential risk to their business growth and revenue the increased
+scrutiny of L visa workers by USCIS, noting in particular that it
+would limit use of labor that is ``... essentially an arrangement
+to provide labor for hire rather than in connection with the
+employee`s specialized knowledge.`` It would seem the implication
+is that such enforcement would curtail current practices.
+
+It is not just the Indian offshore firms that note the impact of
+potential restrictions on use of guestworkers. The U.S.
+consulting firm Accenture, also a large H-1B employer with a
+large offshore operation, notes in its 10-K that if it is ``...
+unable to deploy needed talent because of increased regulation of
+immigration or work visas, including limitations placed on number
+of visas granted, limitations on type of work performed or
+location in which work can be performed, and new or higher
+minimum salary requirements, could be more difficult to staff
+employees on client engagements and increase costs.`` Worth
+noting is that the problem appears to be one of costs and
+difficulty in offshore staff working in the U.S., but not a
+potential ``shortage`` of workers.
+
+Cognizant, a New Jersey based IT consulting company with large
+offshore development operations, reports that the ``. US Congress
+has recently considered and may consider in the future extensive
+changes to US immigration laws regarding admission of high-
+skilled temporary and permanent workers. If such provisions are
+signed into law, cost of doing business in the US would
+increase.. .[and would]... impair ability to staffprojects with
+professionals who are not citizens of the country where the work
+is to be performed.`` Their report further notes that ``... the
+vast majority of our technical professionals in the United States
+and Europe are Indian nationals who are able to work in the
+United States and Europe only because they hold current visas and
+work permits. Any inability to travel could cause us to incur
+additional unexpected costs and expenses or could impair our
+ability to retain the skilled professionals we need for our
+operations.`` [emphasis added]
+
+This review of selected company SEC filings about ``Quantitative
+and Qualitative Disclosure About Market Risk`` finds that
+companies that use offshore software development (both U.S. and
+non-U.S. firms) have business models that depend upon access to
+large numbers of guestworker visas. Further, that these
+guestworker visas provide a cost advantage over hiring from the
+U.S. labor force, as noted throughout the SEC disclosures.
+Importantly, there is no mention by U.S. or non-U.S. companies
+that guestworker visas provide labor that would otherwise be
+unavailable in the U.S., only that using U.S. workers would
+increase costs and make offshoring less profitable and
+potentially uncompetitive with firms that did development work
+solely or largely in the U.S.
+
+4. Impacts
+
+(1) Historical trends in wages
+
+The impact of guestworkers on the labor market and wages can be
+assessed through a number of different measures. As noted
+earlier, we are examining multiple measures to understand
+dominant trends and whether multiple measures are consistent in
+indicating labor market impacts. We first examine several
+different measures of wages: by occupation, by industry, by
+geographical region. Then we examine wages, guestworker supply,
+and computer science graduates trends. Beginning in the 1990s,
+wages and employment rose steeply to a peak during the dot-com
+boom. (This trend has been reviewed in recent research by Costa,
+2012, Lazonick ,2009, and Matloff, 2013 as well as by other
+researchers in recent years.) Through the 1990s and until 2004,
+we observe the expected relationship between unemployment and
+wages; in the 1990s unemployment was low and wages grew strongly,
+both signs of growing demand for IT workers. After the bursting
+of the dot-com bubble, a period of high unemployment was
+accompanied by a tapering off of IT wage growth. However,
+starting around 2004, a different pattern emerges. Although the
+recovery of the 2000s brought down unemployment and increased
+employment, wage growth never resumed. These flat wages do not
+appear to reflect a level of unmet demand.
+
+A more detailed analysis of the IT industry has been undertaken
+by Lazonick (2009),10 who focused on four key information and
+communication technology areas: semiconductors (SC), software
+publishing (SP), computer programming (CP), and computer system
+design (CS), with data up to 2006. Figure 8 updates the data to
+2010.11 Lazonick`s analyses also examine the employment and wage
+trends in different industry segments and regions, with
+particular focus on the high-tech regions of Silicon Valley in
+California, the Route 128 corridor in Massachusetts, and the
+cities of Dallas and Austin in Texas. The trends in each of these
+labor markets show similar patterns: steep increases in
+employment and wages during the dot-com boom, a collapse in 2001,
+and then increases in employment and wages in some industry
+segments and regions (but still well below the peaks of 2000)
+until the crash of 2008.12
+
+There are important differences in trends by region and
+occupation. Policy discussions about the IT and guestworker labor
+markets tend to focus on Silicon Valley and big product companies
+like Apple. But as the following figures show, the Silicon Valley
+pattern in employment and wage levels is not representative of
+the industry as whole. For example, a sharp increase in computer
+system design employment in Silicon Valley in 2010 was primarily
+the result of the dramatic growth of employment at Apple in
+response to the success of the iPhone and the launch of the iPad,
+but significant employment and compensation increases were not
+observed in other locations. Programming employment exhibited the
+strongest growth during the dot-com boom and again before the
+2008 recession, but computer design and semiconductor employment
+experienced no recovery. Programming is the lower-paid and
+generally lower-skilled of the occupations, and there is a
+secular decline in wages over the past decade; in many cases they
+even fall below the lowest levels reached after the dot-com crash
+(Figure 8).
+
+Even in the dynamic technology regions of Silicon Valley, Route
+128, Dallas, and Austin, the local earnings data shown in Figure
+9 for workers in computer programming and computer system design
+reveal no signs of the rising wages that would be expected to
+occur if employers were hiring in a market that had a limited
+supply of workers.
+
+(2) H-1B workers and IT wages
+
+The overall wage trends, as shown above and in detailed in
+Salzman et al., (2013) and Lazonick (2009), and many other
+studies demonstrate a pattern of largely stagnant wages that
+suggest a sufficient, and perhaps ample supply of workers in most
+regions and computer occupations. As the example of petroleum
+engineers shows, a tight labor supply will be reflected in wage
+increases and a consequent increase in supply. Conversely, as a
+Brookings report observes, ``it is likely that the extra supply
+of foreign-born workers does bring downward pressure on the wages
+of incumbent workers, as research suggests`` (Rothwell and Ruiz,
+2013).
+
+In examining wage and both domestic and guestworker supply, we
+can observe several trends that may explain the flat salaries
+shown in the analysis in the previous section. As shown in Figure
+10, in the late 1990s through early 2000s wages were increasing
+as was the number of computer science graduates and guestworkers.
+This was due to the high demand of Y2K remediation work and the
+growing dot-com bubble as well as general IT growth. When the dot-
+com bubble burst, wages fell and both U.S. computer science
+graduate enrollments and guestworker numbers declined (with a lag
+in graduates because those already enrolled at the time of the
+crash completed their degrees in the subsequent two to three
+years). However, as the IT industry recovered, we observe sharp
+increases in the number of guestworkers but a continued decline
+in U.S. computer science graduates and continued declines and
+stagnation of salaries. It was during this period that there was
+the great ``crew shift`` to using guestworkers both in the U.S.
+and a significant increase in offshore IT development, which
+relies on guestworkers in the U.S. and transfer of work to
+offshore teams. All these factors would suggest there was a
+fundamental structural change in the IT labor market that allowed
+firms to have an ample workforce supply without having to raise
+wages.
+
+Figure 11 shows our preliminary analysis of the U.S. workforce
+and H-1B workforce in the same IT occupations. There is
+substantial average wage savings gain by using H-1B workers,
+which we estimate now comprise over 40 percent of the workforce
+in these occupations (the data on the U.S. workforce provides
+occupational detail but the H-1B data combine these two computer
+occupations). What is remarkable is that these workforce
+averages, which are for all workers in these occupations with a
+Bachelors degree or higher, are lower for the H-1B workforce yet
+it is a workforce comprised of nearly twice the proportion of
+workers with a Masters degree. That is, despite a workforce
+composed of a substantially greater number of workers with a post-
+graduate degree (nearly twice the proportion), their average
+wages are lower. In a preliminary analysis of wages and
+education, Lowell and Salzman (in preparation) find that, as
+would be expected in the labor market, U.S. workers with a
+Masters degree receive higher wages than those with a Bachelors
+degree, and it is a wage premium that increases among older
+workers with a Masters degree. However, in the H-1B workforce
+there is, on average, no wage premium for a Masters degree. That
+is, for most H-1B workers with a Masters degree, they do not earn
+more than an H-1B worker with a Bachelors degree. We discuss the
+implications of this finding in more detail in the next section.
+
+5. ``Green Cards for Grads``
+
+In response to the ``handcuff provisions of H-1B visas (e.g.,
+employer sponsorship that limits mobility), various policies such
+as those in the I-Squared Act would increase the speed, ease, and
+availability of green cards for STEM graduates. The justification
+is that, by providing free labor market mobility to workers they
+can obtain market wages and that they won`t be ``sent home``
+after receiving a U.S. education. This is presumed to provide a
+benefit to the U.S. as well as preventing them from ``competing
+against us.`` Although a well-intentioned response to the
+documented abuses of the H-1B program, the I-Squared and other
+green card proposals do not appear to consider the evidence about
+the impact of the current H-1B, CPT, OPT, and OPT-extension
+programs on higher education and impact in the STEM labor market.
+
+First, although the assertion that ``we`re educating them and
+then sending them home,`` is widespread and oft-repeated, there
+is scant evidence available to accurately assess this claim. The
+one study that did examine Ph.D. graduates found there has been
+no change in the return rate (Finn, 2012). One informal follow up
+that was done of cases reported in the media found none had, in
+fact, been compelled to leave because of an inability to obtain a
+visa (Matloff, 2014). Matloff concludes: ``The lobbyists` claims
+that we are losing outstanding technological talents to our
+competitor nations due to low visa caps is just false. There must
+be some examples somewhere, but the examples given by the
+advocates themselves just don`t support their claims.``13 In
+earlier work that Leonard Lynn, Pamela Meil and I conducted of
+technology entrepreneurs in India and China (Lynn, et al.,,
+2012), we found that those returning had all done so because they
+wanted to live and work in their home country (often after many
+years, and professional success, in the U.S.). That is, the
+``pull`` factors to home country seem to be the primary
+motivating factor rather than ``push`` factors in the U.S.
+
+Second, the ``loss`` of graduates is often described as the
+potential loss of the next google founder, or other innovator.
+This claim is not based on any evidence, the cases cited are
+anecdotal and often not illustrative of the claim (e.g., google`s
+co-founder, Brin, immigrated as a child with his family leaving
+the dissolving Soviet Union) and, importantly, fail to consider
+the evidence about the predominant types of students and jobs the
+colleges and visa programs support. That is, these guestworker
+programs are largely to support offshore development work and
+generally for routine programming work, not the innovation work
+that makes headlines.
+
+Third, and perhaps most importantly, the incentives provided by
+easy U.S. labor market entry as now exists with the CPT, OPT, OPT-
+extension, and H-1B programs have led to growth of graduate
+programs that, at the extreme, are fraudulent programs (Bartlett,
+Fischer, and Keller 2011), but in the main have grown to target
+foreign students as part of a business model to generate revenue
+rather than provide a high quality, graduate-level education.
+These are programs in lower-tier schools and programs in higher
+ranked schools but are structured to serve foreign students with
+a lower quality education. The institutions with some of the
+highest ratios of OPT-STEM extension awards to enrollments
+(Stratford University, University of Bridgeport, and Northwestern
+Polytechnic University; see Figure 12) were found by a 2011
+Chronicle of Higher Education investigation to target foreign
+students as the primary population for their programs (Bartlett,
+Fischer, and Keller 2011). These colleges specialize in acquiring
+student visas and (for students with F-1 visas) OPT employment
+authorization for their students. In addition to tuition,
+students are often charged up to $3,000 in fees for obtaining the
+work authorization. At some universities, such as Tri-Valley
+University in California, the authors of the Chronicle study
+report that students do not even attend classes; the business
+model was ``selling permission to live and work in the United
+States on student visas.`` Institutions specializing in acquiring
+OPT employment authorization for their students that do not act
+as egregiously as Tri-Valley University still keep their
+instructional expenses down with substantial reliance on online
+education, or they hold classes only occasionally throughout the
+semester.
+
+Abuses have been found in some college programs responding to
+high foreign-student demand for entry into the U.S. IT labor
+market. These colleges also appear to be serving the labor demand
+of some firms that hire students without even minimal college-
+level education and without much, if any, apparent IT experience
+or background. In other segments of the college market, even in
+well-established schools, there appears to be extensive use of
+the OPT extension (suggesting that there are students who are
+unable to find regular employment even a year after graduating),
+and programs are expanding by targeting foreign student
+enrollments. Providing permanent residency for STEM graduates
+could have quite significant impacts on the education system as
+well as the labor market. Further analysis of the OPT programs
+would provide a better understanding of those potential impacts.
+
+Figures 13 and 14 show colleges, grouped by Carnegie Class, that
+have the largest percentage of their computer science masters
+students on a student F-visa. As these charts show, these are
+colleges that appear to have programs largely if not almost
+exclusively serving foreign students. These enrollment patterns
+reflect a business model for these colleges; Masters programs
+generate high revenue and because entry into the U.S. labor
+market is relatively easy, it becomes a means of expanding the
+labor supply. Interestingly, our preliminary analysis finds that
+the vast majority of H-1B IT workers with a Masters degree have
+little to no wage premium over an IT worker with a Bachelors
+degree, suggesting that these Masters programs are not providing
+students a Masters level education but, rather, the entry-level
+skills into the IT field (U.S. students with Masters degrees in
+computer science do have a wage premium over U.S. Bachelors
+students).
+
+In summary, any expansion of foreign student entry into the U.S.
+labor market in IT is likely to exacerbate rather than remediate
+the current, negative impacts of large guestworker flows on the
+labor market. Further, and very importantly, it is likely to
+exacerbate what appears to be growth of a college and university
+business model of providing entry into the U.S. labor market that
+would otherwise be difficult if not impossible to obtain; the
+provisions of the I-Squared legislation could expand the numbers
+of Masters degree programs that are primarily offering degrees as
+the cost of obtaining a green card, easy entry into the U.S.
+labor market, and perhaps a moderate level of skill and
+education. The evidence suggests the impact would be depressing
+wages, as is currently reflected by the current lack of a wage
+premium for H-1B Masters degree holders and growth of degree
+programs that exclude U.S. students, either indirectly (as
+evident in the colleges with high concentration of F-visa
+graduates) or directly, as in the case of California State
+University-East Bay, which stopped admitting state residents into
+its graduate programs and admitted almost exclusively
+international students into its computer science program (which
+is about 90 percent international students).14 This was the
+University`s explicitly stated strategy to increase revenue to
+make up for budget deficits by excluding state residents who
+would pay lower tuition rates than out-of-state and international
+students. As the chart above suggests, this appears to be a
+business model pursued by a number of colleges and universities
+across the country.
+
+Summary and Concluding Remarks
+
+Our analysis of the data finds that high-skill guest worker
+programs supply the preponderance of all new hires for the IT
+industry. The inflow of guest workers is equal to half of all IT
+hires each year and fully two-thirds of annual hires of workers
+younger than 30.
+
+As the wage analyses show, wages in IT jobs have been stagnant
+for over a decade while guestworkers have steadily increased, now
+comprising 40 percent or more of some computer occupations. The
+evidence strongly indicates that the current levels of
+guestworker supply are a key factor in the depressed wages of
+U.S. IT workers, by both providing a large supply of entry-level
+workers that can substitute for U.S. workers, and particularly
+older workers. Important to note is that the large supply of
+guestworkers is required by IT services firms for offshore
+development. That is, as stated in these companies` SEC filings,
+without a large supply of guestworkers, they would be unable to
+move IT work offshore at competitive rates. At the very least,
+they would have to hire U.S. workers for the portion of their
+workforce on assignment in the U.S.
+
+As increases in the supply of guestworkers are being debated and
+proposals developed to speed the path to green cards, U.S.
+colleges are already graduating more than twice as many science,
+technology, engineering and math (STEM) graduates than the number
+of STEM openings generated by our economy each year. In short,
+the overwhelming evidence does not support a need for the
+escalating numbers of new guestworkers called for in the Senate`s
+S744 legislation or the I-Squared legislation. As Figure 15
+shows, increases of the magnitude proposed would supply
+guestworkers for more than 100 percent of the industry`s hiring
+needs. Such increases can only exacerbate current trends of
+stagnant wages and poor career opportunities in IT and STEM
+fields. In particular, the likely impact of large-scale guest
+worker programs, which stand to hurt all STEM graduates, will
+have especially negative impacts on minorities who are
+underrepresented in high-tech, as well as other, recently arrived
+foreign-born workers who compete most with newcomers.
+
+Labor Markets and the Economy
+
+Markets are supposed to reflect demand through the price
+mechanism of markets. In the case of labor, the ``price`` is
+wages. How can it be, then, that if the IT industry is
+experiencing labor shortages, wage levels in this highly
+profitable industry are no higher than they were in the last
+millennium? How can an industry expect to attract the best
+workers without raising wages? Is there what economists call a
+``market failure`` here? As the evidence presented suggests, STEM
+labor markets do work as expected. In the case of petroleum
+engineers, shortages led to wage increases which, in turn, led to
+near tripling of graduates. There is no plausible explanation for
+the observed IT labor market trends and outcomes other than,
+quite simply, large supplies of guestworkers that allow many
+firms to swap out higher-paid, high-skill domestic workers for
+lower-paid guestworkers, as found by many researcher including a
+Brookings Institution study that concluded ``it is likely that
+the extra supply of foreign-born workers does bring downward
+pressure on the wages of incumbent workers, as research
+suggests`` (Rothwell and Ruiz, 2013) All the evidence suggests
+the IT labor market is still bound by the usual dynamics of
+supply and demand. When we look at the trends of the past 20
+years, we see that when wages increase, the number of computer
+science graduates increases. When wages fall, the number of
+graduates falls. When the supply of guestworkers increases, wages
+stay flat, and too many domestic students must find employment in
+other fields.
+
+Some commentators argue that this last result is good for the
+economy: science and engineering skills are now being used in
+millions of non-STEM jobs. But an alternative view is that far
+too many domestic STEM graduates are in jobs that do not fully
+use their education, which represents a loss of our greatest
+source of innovators. Moreover, students observing these trends
+pursue careers outside of STEM fields, putting their talents to
+work in industries such as finance and law but not contributing
+to the innovation that drives the long-term and sustainable
+strength of the nation.
+
+Yes, employers claim they have thousands of unfilled job
+openings, but the evidence is hardly compelling. Only about half
+to two-thirds of engineering graduates find engineering jobs and
+fewer than half of graduating Ph.D. scientists find career jobs.
+At the largest IT jobs website DICE.com, over half of the
+advertisements are for contract, short-term and part-time jobs
+assuming these jobs exist at all. But even if they are available,
+these are not the types of jobs that U.S. graduates will find
+attractive, nor are they the types of jobs that will allow these
+graduates to pay off student loans, much less enter the middle
+class. Those on the front lines of IT now tell students that
+given the industry`s stagnant wages and unstable career tracks,
+better students should seek jobs elsewhere. An extensive survey
+of a recent college cohort by the National Center for Educational
+Statistics corroborates their advice. Only two-thirds of computer
+science graduates went into IT jobs in 2009. Of those not landing
+an IT job, half said they found a better job elsewhere. Fully one
+third reported there were no IT jobs available.
+
+This was also the finding in our analysis of changes in the
+composition of STEM graduates going into STEM jobs over the past
+three decades (Lowell, et al., 2009). We found that although the
+overall supply remained strong, fewer of the highest performing
+students were going into STEM jobs.
+
+Meanwhile studies by Peter Cappelli of the Wharton School and by
+Burt Barnow of George Washington University find a decrease in
+the intensity of firms` recruitment efforts since the recession
+and an increase in pickiness about whom they are willing to hire.
+Again, the inference seems obvious: the supply of potential
+workers is already plentiful relative to employer demand. This
+should be the evidence that guides current legislation rather
+than anecdotal accounts and thin claims about the need for
+guestworkers and the U.S. falling behind in the global high-tech
+talent search.
+
+H-1B guestworkers are concentrated in computer programmer and
+system analyst jobs; in fact, they fill 85 percent of them. But
+most of these are commodity-like production jobs in IT services,
+doing back office programming for companies. A disproportionate
+number of H-1Bs provide onshore customer management for offshore
+programming teams. Ironically, without the visas, much of the
+programming work couldn`t have been offshored in the first place.
+
+There may be highly innovative guestworkers, but most are in jobs
+far away from the innovation frontier. The Economic Policy
+Institute`s Ron Hira found that few of the largest H-1B employers
+could be considered technology innovators, with most generating
+very low levels of patents. So an often-heard argument for a
+massive increase in guestworkers that we`ll gain a few key
+innovators for America is in reality a high stakes lottery with
+few winners but, like most lotteries, many losers. Large
+increases in the number of guestworkers will not ensure that we
+admit, among the tens of thousands of guestworkers, the few
+geniuses who could make a decisive contribution relative to
+American workers. If the intent of guestworker and immigration
+policy is to attract the high performing students and workers
+with potential to innovate and make substantial contributions to
+the economy, a much different set of polices is needed than those
+currently proposed.
+
+In Summary
+
+Currently, U.S. colleges graduate far more scientists and
+engineers than find employment in those fields every year about
+200,000 more while the IT industry fills about two-thirds of its
+entry-level positions with guest workers. At the same time, IT
+wages have stagnated for over a decade. We cannot expect to build
+a strong STEM workforce and encourage domestic innovation by
+developing policies that undermine the quality of STEM jobs.
+Before asking government to intervene in labor markets by handing
+out more guestworker visas and green cards to STEM graduates, we
+should ask for audits of shortage claims and workforce impacts as
+a first step toward developing evidence-based policy on this
+issue, an issue critical to the nation`s future. Asking domestic
+graduates, both native-born and immigrant, to compete with guest
+workers on wages is not a winning strategy for strengthening U.S.
+science, technology and innovation.
