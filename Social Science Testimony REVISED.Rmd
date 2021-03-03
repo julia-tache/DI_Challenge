@@ -25,11 +25,11 @@ library(data.table)
 library(DT)
 library(stargazer)
 
-sst <- read_csv("social science congressional testimony.csv")
-gov_df <- read_csv("gov_df.csv")
-bills_df <- read_csv("bills_df.csv")
+sst <- read_csv("data/social science congressional testimony.csv")
+gov_df <- read_csv("data/gov_df.csv")
+bills_df <- read_csv("data/bills_df.csv")
 
-testimonies <- readtext::readtext("*.txt")
+testimonies <- readtext::readtext("data/*.txt")
 
 # divide each group of testimonies based on discipline 
 econ <- testimonies[1:5, ]

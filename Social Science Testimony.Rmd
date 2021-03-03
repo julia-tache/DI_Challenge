@@ -19,9 +19,9 @@ My research question is whether or not social science testimonies make an impact
 
 ```{r load data}
 library(tidyverse)
-sst <- read_csv("social science congressional testimony.csv")
-gov_df <- read_csv("gov_df.csv")
-bills_df <- read_csv("bills_df.csv")
+sst <- read_csv("data/social science congressional testimony.csv")
+gov_df <- read_csv("data/gov_df.csv")
+bills_df <- read_csv("data/bills_df.csv")
 
 head(sst)
 ```
