@@ -1,2 +1,2 @@
 # DI_Challenge
-Data Incubator Coding Challenge Project Proposal 
+Data Incubator Coding Challenge Project Proposal
